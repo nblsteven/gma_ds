@@ -17,41 +17,6 @@
   "colorSpace": 0,
   "do_objectID": "F34ED38F-CA12-4C1E-8034-B9F5FEFA5CBA",
   "foreignLayerStyles": [
-    {
-      "_class": "MSImmutableForeignLayerStyle",
-      "libraryID": "F55B8C55-90F8-4303-99AA-167FDD09C007",
-      "localSharedStyle": {
-        "_class": "sharedStyle",
-        "do_objectID": "3591D3AA-AA29-48C8-A5CD-2E736254E284",
-        "name": "UITintColor (Border)",
-        "value": {
-          "_class": "style",
-          "borders": [
-            {
-              "_class": "border",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 1,
-                "green": 0.4784313725490197,
-                "red": 0
-              },
-              "fillType": 0,
-              "isEnabled": true,
-              "position": 1,
-              "thickness": 1
-            }
-          ],
-          "endMarkerType": 0,
-          "miterLimit": 10,
-          "sharedObjectID": "3591D3AA-AA29-48C8-A5CD-2E736254E284",
-          "startMarkerType": 0,
-          "windingRule": 1
-        }
-      },
-      "remoteStyleID": "4DD785BE-6949-411C-BB8E-ABC249E1B7A9",
-      "sourceLibraryName": "iOS UI Design"
-    }
   ],
   "foreignSymbols": [
     {
@@ -34334,12 +34299,9 @@
     "version": 105
   },
   "pages": [
-    "1-创建钱包",
-    "2-备份私钥",
-    "3-选择账户激活方式",
-    "tmp",
-    "_Flows",
+    "1-create wallet",
     "2-transfer accounts",
+    "3-activation",
     "4-import",
     "5-mine",
     "6-sign in",
@@ -34351,11 +34313,6 @@
     "Symbols"
   ],
   "userInfo": {
-    "com.abynim.sketchplugins.userflows": {
-      "lastUsedBorderStyleID": "3591D3AA-AA29-48C8-A5CD-2E736254E284",
-      "lastUsedFlowPage": "_Flows",
-      "lastUsedForeignStyleID": "4DD785BE-6949-411C-BB8E-ABC249E1B7A9"
-    },
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
     }

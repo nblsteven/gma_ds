@@ -1,0 +1,92 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CD0AFF99-F69D-409C-B1B2-265EF5D9A516",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F8EE67A5-C915-45B1-BA55-E86112BA17A9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "BB08F8E9-B127-4207-832D-2E29E7096769",
+    "height": 12,
+    "width": 12,
+    "x": 2,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "63781641-297C-4B95-A3DF-11E279CB210A"
+    },
+    {
+      "class": "shapePath",
+      "id": "EE9B3146-1B14-4883-A63E-F822CC9BD396"
+    }
+  ],
+  "name": "ic_notify_close_white",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "8716FB79-A3AB-4962-8D67-C796FFB20A35",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.151,
+      "type": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "7E8E84B4-BAC4-45A4-967C-3D22C769749B",
+      "opacity": 0.9700000286102295
+    },
+    "do_objectID": "BAFEBAF2-DCD1-4E0E-A1A7-3E0FFCB091EB",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9686274509803922,
+          "green": 0.9686274509803922,
+          "red": 0.9921568627450981
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "EE248C49-B41E-4D50-ADB4-785FC787EC99",
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

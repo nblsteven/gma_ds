@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4039215686,
-            "green": 0.1725490196,
-            "red": 0.1294117647
+            "blue": 0.7411764705882353,
+            "green": 0.6392156862745098,
+            "red": 0.6196078431372549
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PingFangSC-Regular",
-              "size": 14
+              "size": 12
             }
           },
           "kerning": 0,
@@ -25,8 +25,8 @@
             "_class": "paragraphStyle",
             "alignment": 3,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -34,15 +34,15 @@
         "location": 0
       }
     ],
-    "string": "请输入备份的私钥，以验证是否正确"
+    "string": "请输入备份的私钥，已验证是否正确"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "D15661DD-9F02-4ED2-A70C-625361E37025",
+  "do_objectID": "50CC4D33-11F8-41C4-932C-BB52FBD739BD",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3C9F0D61-19D8-466C-8ADA-CD6A94861297",
+    "do_objectID": "26C0E5B0-1076-4D7A-B593-197288C75C04",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,13 +53,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "98479A97-4EED-4A3F-BAAE-35F335802BCF",
+    "do_objectID": "A06FC8AB-FC51-4841-9CE9-0BEC7701FBC6",
     "height": 22,
     "width": 311,
-    "x": 0,
-    "y": 0
+    "x": 32,
+    "y": 80
   },
-  "glyphBounds": "{{0, 4}, {223, 15}}",
+  "glyphBounds": "{{0, 4}, {192, 12}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "请输入备份的私钥，以验证是否正确",
+  "name": "请输入备份的私钥，已验证是否正确",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -75,26 +75,27 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "CD4624AC-832E-4D2E-85A8-AAE82D1BCB5B",
+    "do_objectID": "2C91961E-0935-4F95-940A-A7B6C77150C1",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "195D4FAB-3864-4AB7-BB00-605A33E61850",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "B975A881-7E92-48A3-95A0-4AFFD1DA9020",
+      "do_objectID": "1321336D-76C1-4121-B462-04ACAE721518",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4039215686,
-          "green": 0.1725490196,
-          "red": 0.1294117647
+          "blue": 0.7411764705882353,
+          "green": 0.6392156862745098,
+          "red": 0.6196078431372549
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PingFangSC-Regular",
-            "size": 14
+            "size": 12
           }
         },
         "kerning": 0,
@@ -102,8 +103,8 @@
           "_class": "paragraphStyle",
           "alignment": 3,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 22,
-          "minimumLineHeight": 22
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
         },
         "textStyleVerticalAlignmentKey": 0
       },

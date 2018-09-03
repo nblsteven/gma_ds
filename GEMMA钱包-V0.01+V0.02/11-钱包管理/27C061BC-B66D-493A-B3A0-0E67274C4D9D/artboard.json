@@ -46,7 +46,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -70,19 +70,19 @@
     },
     {
       "class": "group",
-      "id": "30749368-77F8-4BE6-938C-81AF764FEE59"
-    },
-    {
-      "class": "group",
-      "id": "9C951D91-B3B1-47FE-821A-8EBD8D41E015"
-    },
-    {
-      "class": "group",
       "id": "32D2DAE0-757C-435B-A5E2-4664B14C148F"
     },
     {
+      "class": "text",
+      "id": "91614F8D-5CA3-4489-A02F-EDBF82ED3F9B"
+    },
+    {
       "class": "group",
-      "id": "BACF0704-3F06-473A-9347-9D212AA97D1B"
+      "id": "9B9E4265-ED0D-4E56-9F3B-82341279DD49"
+    },
+    {
+      "class": "group",
+      "id": "D54AAA3D-ED44-4C24-BA12-5EFF4A321C7F"
     }
   ],
   "name": "11-检查私钥备份",

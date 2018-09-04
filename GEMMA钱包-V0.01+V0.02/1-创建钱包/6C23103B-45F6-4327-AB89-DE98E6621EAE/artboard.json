@@ -46,7 +46,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -62,7 +62,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -87,10 +87,6 @@
     {
       "class": "symbolInstance",
       "id": "0952A0EB-5D28-43A5-B893-3B1789714363"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3AC491C4-617A-4F17-AD03-1048885BFF2B"
     }
   ],
   "name": "1-创建钱包-密码输入提示",

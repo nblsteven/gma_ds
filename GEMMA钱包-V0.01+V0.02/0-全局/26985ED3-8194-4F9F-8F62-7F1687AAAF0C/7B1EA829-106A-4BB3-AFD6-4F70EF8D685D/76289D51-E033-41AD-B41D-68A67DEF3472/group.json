@@ -1,9 +1,10 @@
 {
-  "_class": "page",
-  "booleanOperation": -1,
-  "do_objectID": "F3E8E7EE-FE27-4D17-BCA4-AD346ED3A9D1",
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "76289D51-E033-41AD-B41D-68A67DEF3472",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "338A8C85-0BE9-476D-9027-4F2936EF4202",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,36 +15,30 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "do_objectID": "E09946A4-E8E1-4A5C-A075-084390249A63",
+    "height": 45,
+    "width": 48,
+    "x": 38,
+    "y": 2
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -727,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "hasClickThrough": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "artboard",
-      "id": "75FF394A-36EE-4325-9AF3-13175CE04318"
+      "class": "text",
+      "id": "FE7F9335-BE25-46C0-9B3D-35857294FF06"
     },
     {
-      "class": "artboard",
-      "id": "26985ED3-8194-4F9F-8F62-7F1687AAAF0C"
+      "class": "symbolInstance",
+      "id": "D8E4C671-50B3-480B-9579-7C364F97A88C"
     }
   ],
-  "name": "0-全局",
+  "name": "钱包",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -51,15 +46,16 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "A9FE6923-953F-4BEE-BC07-37920C68DE75",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -482,
-    "guides": [
-    ]
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

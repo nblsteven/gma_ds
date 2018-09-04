@@ -1,9 +1,10 @@
 {
-  "_class": "page",
-  "booleanOperation": -1,
-  "do_objectID": "F3E8E7EE-FE27-4D17-BCA4-AD346ED3A9D1",
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "1509C9C6-5FE3-413B-BB56-4DD1C6B52106",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "9019ECDB-256C-4990-8020-5B627272B661",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,52 +15,36 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
+    "do_objectID": "B8AE4BB7-D31B-48C6-B624-BAAB16E89C2A",
+    "height": 34,
+    "width": 34,
+    "x": 7,
     "y": 0
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -727,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "75FF394A-36EE-4325-9AF3-13175CE04318"
-    },
-    {
-      "class": "artboard",
-      "id": "26985ED3-8194-4F9F-8F62-7F1687AAAF0C"
-    }
+  "name": "ic_tab_mine_enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "0-全局",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "C688ED82-84FE-4455-B234-6FE2813BBC9C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -482,
-    "guides": [
-    ]
-  }
+  "symbolID": "99AE8BC8-D865-4B36-A891-2501DE7C2E3C",
+  "verticalSpacing": 0
 }

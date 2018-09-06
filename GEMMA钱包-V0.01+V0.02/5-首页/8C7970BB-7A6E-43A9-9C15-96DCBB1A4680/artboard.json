@@ -42,7 +42,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,7 +50,9 @@
       41,
       336,
       16,
-      359
+      359,
+      325,
+      344
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -84,16 +86,8 @@
       "id": "A83F3EDF-9B9C-42F7-916E-968650E8ADAD"
     },
     {
-      "class": "text",
-      "id": "76B4F374-C35D-40B2-9D81-CD79EF204B77"
-    },
-    {
       "class": "group",
       "id": "15317ACD-283F-483D-960E-EE6EB7765807"
-    },
-    {
-      "class": "group",
-      "id": "905E1419-0F2A-478B-9904-67C662293954"
     }
   ],
   "name": "5-首页-蓝牙卡-连接中",

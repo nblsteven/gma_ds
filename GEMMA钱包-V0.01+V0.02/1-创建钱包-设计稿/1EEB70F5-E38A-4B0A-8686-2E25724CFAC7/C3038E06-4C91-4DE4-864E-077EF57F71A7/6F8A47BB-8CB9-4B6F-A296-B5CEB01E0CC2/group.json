@@ -1,9 +1,10 @@
 {
   "_class": "group",
   "booleanOperation": 0,
-  "do_objectID": "032D91D5-83DC-4918-87F5-CEBF3C323BE8",
+  "do_objectID": "6F8A47BB-8CB9-4B6F-A296-B5CEB01E0CC2",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "1F268722-D664-4FB6-93F0-4ED33B9E419C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -11,19 +12,14 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "flow": {
-    "_class": "MSImmutableFlowConnection",
-    "animationType": 0,
-    "destinationArtboardID": "2E441C36-2EAF-497E-94D2-CEA097907554",
-    "do_objectID": "E56BC9D0-00FD-4D80-A7DA-C763D9754964"
-  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
-    "width": 311,
-    "x": 32,
-    "y": 465
+    "do_objectID": "3E715B16-2291-4BC6-A23B-29FF5B0D5257",
+    "height": 50,
+    "width": 96,
+    "x": 16,
+    "y": 262
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -31,28 +27,35 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "B980EA3A-BAB6-423C-B762-9BD0ED2891E5"
+      "class": "text",
+      "id": "AB00A457-23EB-4BBB-819B-ABF46C952D65"
     },
     {
       "class": "text",
-      "id": "EC9DF37B-CC57-4965-B0D0-E21C5E6462BC"
+      "id": "282D5C4C-D601-4383-A8D2-78DBBCBED1C0"
     }
   ],
-  "name": "button",
-  "nameIsFixed": false,
+  "name": "list1",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "72D03BB9-53E6-4A26-94E8-3681C7E5DF0F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

@@ -1,9 +1,10 @@
 {
   "_class": "group",
   "booleanOperation": 0,
-  "do_objectID": "032D91D5-83DC-4918-87F5-CEBF3C323BE8",
+  "do_objectID": "4235CE57-AD4B-4478-B858-8076CA208C28",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "D7E450FC-921C-4ED6-9691-0CA04964C23F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -11,19 +12,14 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "flow": {
-    "_class": "MSImmutableFlowConnection",
-    "animationType": 0,
-    "destinationArtboardID": "2E441C36-2EAF-497E-94D2-CEA097907554",
-    "do_objectID": "E56BC9D0-00FD-4D80-A7DA-C763D9754964"
-  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
+    "do_objectID": "56DD63EB-D60E-400F-A9B5-15F528593CFD",
+    "height": 58,
     "width": 311,
-    "x": 32,
-    "y": 465
+    "x": 16,
+    "y": 16
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -31,28 +27,42 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "B980EA3A-BAB6-423C-B762-9BD0ED2891E5"
+      "id": "9A407CB7-70EA-4D4B-8942-06FE59114289"
     },
     {
       "class": "text",
-      "id": "EC9DF37B-CC57-4965-B0D0-E21C5E6462BC"
+      "id": "7A10EFF6-1BF5-4B10-B048-8E046F7BEA3D"
+    },
+    {
+      "class": "text",
+      "id": "F00011BB-1147-4EE2-9DFA-94C4F96031F9"
     }
   ],
-  "name": "button",
-  "nameIsFixed": false,
+  "name": "list1",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "A1BA89EC-D1B2-43B8-87BC-A177803BC7EF",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "sharedBorderStyleID": "B8400ED1-FCBB-4114-B2A6-6D942F994A1C"
+    },
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

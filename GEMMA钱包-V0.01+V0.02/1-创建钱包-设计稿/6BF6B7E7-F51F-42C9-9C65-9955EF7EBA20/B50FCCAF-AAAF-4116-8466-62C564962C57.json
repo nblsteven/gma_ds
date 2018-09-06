@@ -1,9 +1,10 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "032D91D5-83DC-4918-87F5-CEBF3C323BE8",
+  "do_objectID": "B50FCCAF-AAAF-4116-8466-62C564962C57",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "C8D66E7B-980B-4E3B-A26A-4C78DCC8ADDB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -11,48 +12,39 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "flow": {
-    "_class": "MSImmutableFlowConnection",
-    "animationType": 0,
-    "destinationArtboardID": "2E441C36-2EAF-497E-94D2-CEA097907554",
-    "do_objectID": "E56BC9D0-00FD-4D80-A7DA-C763D9754964"
-  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
-    "width": 311,
-    "x": 32,
-    "y": 465
+    "do_objectID": "D64FB561-CFC7-4CE3-8031-BD8BEA73D614",
+    "height": 216,
+    "width": 375,
+    "x": 0,
+    "y": 451
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "B980EA3A-BAB6-423C-B762-9BD0ED2891E5"
-    },
-    {
-      "class": "text",
-      "id": "EC9DF37B-CC57-4965-B0D0-E21C5E6462BC"
-    }
-  ],
-  "name": "button",
+  "name": "Keyboards/Light/Uppercase",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "9DF4B427-B86C-4BAF-9137-1A60D6CD0953",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "D0042728-3F75-46EB-B3CE-6B6D91B72011",
+  "verticalSpacing": 0
 }

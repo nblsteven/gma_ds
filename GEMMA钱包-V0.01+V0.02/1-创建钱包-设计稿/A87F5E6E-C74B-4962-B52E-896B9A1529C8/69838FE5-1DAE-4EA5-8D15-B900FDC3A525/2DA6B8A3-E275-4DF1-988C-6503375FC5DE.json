@@ -1,9 +1,10 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "032D91D5-83DC-4918-87F5-CEBF3C323BE8",
+  "do_objectID": "2DA6B8A3-E275-4DF1-988C-6503375FC5DE",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "575DC165-CC6D-42EF-8BEE-DE3BCD5898FB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -11,48 +12,39 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "flow": {
-    "_class": "MSImmutableFlowConnection",
-    "animationType": 0,
-    "destinationArtboardID": "2E441C36-2EAF-497E-94D2-CEA097907554",
-    "do_objectID": "E56BC9D0-00FD-4D80-A7DA-C763D9754964"
-  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
-    "width": 311,
-    "x": 32,
-    "y": 465
+    "do_objectID": "AE51020F-7B10-4227-8057-BBD1EDB3386B",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "B980EA3A-BAB6-423C-B762-9BD0ED2891E5"
-    },
-    {
-      "class": "text",
-      "id": "EC9DF37B-CC57-4965-B0D0-E21C5E6462BC"
-    }
-  ],
-  "name": "button",
+  "name": "ic_checkbox_enabled",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "8E56F1D9-E09C-4531-B547-128BE55173DC",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "1A41A905-127D-4A2E-ADCF-EFB535E183E9",
+  "verticalSpacing": 0
 }

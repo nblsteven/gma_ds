@@ -1,9 +1,10 @@
 {
   "_class": "group",
   "booleanOperation": 0,
-  "do_objectID": "032D91D5-83DC-4918-87F5-CEBF3C323BE8",
+  "do_objectID": "04FC8BCF-F724-4419-BC5A-03FD47E142C6",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "811C83A9-892C-4D99-9E50-6281F5D5C793",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -11,19 +12,14 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "flow": {
-    "_class": "MSImmutableFlowConnection",
-    "animationType": 0,
-    "destinationArtboardID": "2E441C36-2EAF-497E-94D2-CEA097907554",
-    "do_objectID": "E56BC9D0-00FD-4D80-A7DA-C763D9754964"
-  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
-    "width": 311,
-    "x": 32,
-    "y": 465
+    "do_objectID": "C586B907-C98B-4EA1-A9E8-CA1EBD17F1F4",
+    "height": 328,
+    "width": 343,
+    "x": 16,
+    "y": 80
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -31,18 +27,30 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "B980EA3A-BAB6-423C-B762-9BD0ED2891E5"
+      "id": "1BC4F733-A433-4690-8140-626ADB2D3DD9"
     },
     {
-      "class": "text",
-      "id": "EC9DF37B-CC57-4965-B0D0-E21C5E6462BC"
+      "class": "group",
+      "id": "4A7AEA72-BC77-40FA-93CC-5B5631ADF74F"
+    },
+    {
+      "class": "group",
+      "id": "70A88505-8229-46C0-8C52-F1F7AF75DC4D"
+    },
+    {
+      "class": "group",
+      "id": "D59030E0-BB38-40DA-8420-993F861BE9C7"
+    },
+    {
+      "class": "group",
+      "id": "D7AA9BBF-643B-469B-9FA7-348C2FB29144"
     }
   ],
-  "name": "button",
+  "name": "Group 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -50,6 +58,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "21F0CDA3-DC95-42A3-8D41-03CFAEE4C146",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

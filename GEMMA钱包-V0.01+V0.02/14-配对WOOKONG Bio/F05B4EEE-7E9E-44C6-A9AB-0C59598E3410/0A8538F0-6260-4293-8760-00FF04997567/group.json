@@ -1,10 +1,9 @@
 {
   "_class": "group",
   "booleanOperation": 0,
-  "do_objectID": "8BDCBEB8-8DEF-4215-80B5-B46F11164604",
+  "do_objectID": "0A8538F0-6260-4293-8760-00FF04997567",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A7811A5E-F521-4DA9-9A9F-2E22C6ECCC5D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -12,20 +11,13 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "flow": {
-    "_class": "MSImmutableFlowConnection",
-    "animationType": 0,
-    "destinationArtboardID": "C071777C-BD06-4F57-8880-5151DF12D8AE",
-    "do_objectID": "F4C225C6-CA90-4CE3-B4A7-DB47F8EAD515"
-  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C0BDA3D8-5FC6-4A70-B40C-DDC4A3C17DDF",
-    "height": 44,
-    "width": 311,
-    "x": 32,
-    "y": 525
+    "height": 64,
+    "width": 375,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -36,15 +28,23 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "B35906E8-345B-4B9D-88A2-C7DAA75C28FF"
+      "class": "symbolInstance",
+      "id": "339532AA-32D1-4304-BFFD-42FD9DC21735"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B40FEEEC-DFC5-4288-A1DF-8810AACEB741"
     },
     {
       "class": "text",
-      "id": "388267DF-EF20-40D1-A6E7-03D3388ED311"
+      "id": "DE34B54A-8BE0-4AFB-BAE9-9E61DBFA19D8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C61554D0-0D18-498F-B107-7FAA52B339D2"
     }
   ],
-  "name": "button",
+  "name": "navigation",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -52,10 +52,19 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "3CB51200-F1EA-4DE0-861F-0A136DF5C552",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "destinationArtboardID": "C9E8F963-397F-459E-BA5A-F5B007BD703D",
+      "sharedBorderStyleID": "B8400ED1-FCBB-4114-B2A6-6D942F994A1C"
+    },
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

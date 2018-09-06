@@ -1,7 +1,7 @@
 {
   "_class": "group",
-  "booleanOperation": -1,
-  "do_objectID": "A00B0788-3845-4A63-A3AF-3E055861D8EF",
+  "booleanOperation": 0,
+  "do_objectID": "2FB8DE20-A178-4A37-B853-3E506F0590FA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,11 +13,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 24,
-    "width": 20,
-    "x": 31,
-    "y": 486
+    "constrainProportions": false,
+    "height": 44,
+    "width": 311,
+    "x": 32,
+    "y": 585
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -25,19 +25,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "E4F2E40A-DA5C-441D-B77F-84FD3126DF4D"
+      "id": "C6050496-0056-442F-9167-FB35A1E1B9CB"
     },
     {
-      "class": "shapeGroup",
-      "id": "7FEFA699-FFBA-4AD8-882E-36462064D1B5"
+      "class": "group",
+      "id": "C0F69B48-B5F6-47A9-9DEB-61ACA65E89E4"
     }
   ],
-  "name": "Group 3",
-  "nameIsFixed": false,
+  "name": "button copy",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

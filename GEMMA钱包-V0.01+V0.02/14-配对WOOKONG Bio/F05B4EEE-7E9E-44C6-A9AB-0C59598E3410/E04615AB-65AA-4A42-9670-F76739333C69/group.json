@@ -1,7 +1,7 @@
 {
   "_class": "group",
-  "booleanOperation": -1,
-  "do_objectID": "A00B0788-3845-4A63-A3AF-3E055861D8EF",
+  "booleanOperation": 0,
+  "do_objectID": "E04615AB-65AA-4A42-9670-F76739333C69",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,11 +13,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 24,
-    "width": 20,
-    "x": 31,
-    "y": 486
+    "constrainProportions": false,
+    "height": 44,
+    "width": 311,
+    "x": 32,
+    "y": 515
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -25,18 +25,18 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "E4F2E40A-DA5C-441D-B77F-84FD3126DF4D"
+      "id": "8EBB3CE6-28D6-4897-A8CC-66AEFF6AA99F"
     },
     {
-      "class": "shapeGroup",
-      "id": "7FEFA699-FFBA-4AD8-882E-36462064D1B5"
+      "class": "text",
+      "id": "18C8FCE7-0349-489A-AD4E-07C151A03A79"
     }
   ],
-  "name": "Group 3",
+  "name": "button",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

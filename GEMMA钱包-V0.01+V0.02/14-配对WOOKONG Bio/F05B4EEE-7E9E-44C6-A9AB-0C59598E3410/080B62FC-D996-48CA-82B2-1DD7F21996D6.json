@@ -1,7 +1,8 @@
 {
-  "_class": "group",
+  "_class": "bitmap",
   "booleanOperation": -1,
-  "do_objectID": "A00B0788-3845-4A63-A3AF-3E055861D8EF",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "080B62FC-D996-48CA-82B2-1DD7F21996D6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -11,32 +12,28 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 24,
-    "width": 20,
-    "x": 31,
-    "y": 486
+    "height": 134.1949579831933,
+    "width": 224.8432304038005,
+    "x": 72.97980997624704,
+    "y": 144.4470588235294
   },
-  "hasClickThrough": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/a286c23cbf57a87ee8137459802f350f1dbf13f6.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "E4F2E40A-DA5C-441D-B77F-84FD3126DF4D"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "7FEFA699-FFBA-4AD8-882E-36462064D1B5"
-    }
-  ],
-  "name": "Group 3",
+  "name": "wookong_BIO",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

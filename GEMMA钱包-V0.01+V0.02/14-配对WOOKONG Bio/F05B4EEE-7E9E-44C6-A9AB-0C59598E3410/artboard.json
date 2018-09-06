@@ -3,16 +3,14 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.4039215686,
-    "do_objectID": "8BCBE902-566A-494A-8A29-DEA64F5054C1",
-    "green": 0.1725490196,
-    "red": 0.1294117647
+    "blue": 0.9764705882352941,
+    "green": 0.9764705882352941,
+    "red": 0.9764705882352941
   },
   "booleanOperation": 0,
-  "do_objectID": "F362E9DA-2642-4934-A14C-E04AB5414CCC",
+  "do_objectID": "F05B4EEE-7E9E-44C6-A9AB-0C59598E3410",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "26A5320F-25A3-4D74-A95A-641E6D318678",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -26,21 +24,19 @@
     ],
     "includedLayerIds": [
     ],
-    "layerOptions": 0,
+    "layerOptions": 2,
     "shouldTrim": false
   },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "AEB5EE36-8558-4D4C-B336-32EBAB351163",
     "height": 667,
     "width": 375,
-    "x": -1060,
-    "y": -264
+    "x": -188,
+    "y": 452
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "4AC8DB48-46A9-4665-A0AF-2BA90562FAD6",
     "gridSize": 20,
     "isEnabled": false,
     "thickGridTimes": 10
@@ -50,7 +46,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "D0714E47-0B4E-413D-ADDA-04ABD3C6E736",
     "guides": [
     ]
   },
@@ -65,27 +60,47 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "549BF6DF-F745-4D14-8FA3-7EE9E27BA56E"
+      "class": "shapeGroup",
+      "id": "0E4A24F8-43AC-449C-AA02-4ABEA04ABEC1"
+    },
+    {
+      "class": "text",
+      "id": "DC36DE0A-8BE7-41E7-AB67-78DC1C562CFB"
+    },
+    {
+      "class": "text",
+      "id": "C4350FFA-1532-4597-9A1E-2E6E15E8BF9B"
+    },
+    {
+      "class": "text",
+      "id": "7D768EF5-0574-4206-8B70-AFD84809B817"
     },
     {
       "class": "group",
-      "id": "032D91D5-83DC-4918-87F5-CEBF3C323BE8"
+      "id": "E04615AB-65AA-4A42-9670-F76739333C69"
     },
     {
       "class": "group",
-      "id": "8BDCBEB8-8DEF-4215-80B5-B46F11164604"
+      "id": "0A8538F0-6260-4293-8760-00FF04997567"
+    },
+    {
+      "class": "bitmap",
+      "id": "080B62FC-D996-48CA-82B2-1DD7F21996D6"
+    },
+    {
+      "class": "text",
+      "id": "72EF0813-7172-47AD-B144-670681F0D1F0"
+    },
+    {
+      "class": "text",
+      "id": "6D08AF70-45E9-4EA5-B3BF-DC033F6EDEF4"
     },
     {
       "class": "group",
-      "id": "2FB8DE20-A178-4A37-B853-3E506F0590FA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "890E7AB7-5056-4D10-A278-70F7F8F59B5B"
+      "id": "184B7FA6-1D38-45D3-A845-CBC28AD6B5F2"
     }
   ],
-  "name": "1-启动",
+  "name": "14-准备配对-选择蓝牙卡",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -101,16 +116,19 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "4A39A924-956F-48C6-89CA-15D580D4865A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "E2090D4C-3222-4E62-B785-DC008B23820A"
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "96214F7E-3E31-459E-951E-5F6772341ECF",
     "guides": [
     ]
   }

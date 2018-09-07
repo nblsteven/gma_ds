@@ -32,8 +32,8 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": -188,
-    "y": 452
+    "x": 352,
+    "y": -334
   },
   "grid": {
     "_class": "simpleGrid",
@@ -57,7 +57,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -98,9 +98,13 @@
     {
       "class": "group",
       "id": "184B7FA6-1D38-45D3-A845-CBC28AD6B5F2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "29E55EF5-89F5-4928-BD40-C37BDE27D78E"
     }
   ],
-  "name": "14-准备配对-选择蓝牙卡",
+  "name": "14-准备配对-选择蓝牙卡-有多个",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -123,7 +127,7 @@
   },
   "userInfo": {
     "com.abynim.sketchplugins.userflows": {
-      "artboardID": "E2090D4C-3222-4E62-B785-DC008B23820A"
+      "artboardID": "F05B4EEE-7E9E-44C6-A9AB-0C59598E3410"
     }
   },
   "verticalRulerData": {

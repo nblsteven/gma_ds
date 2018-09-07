@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -36,8 +36,16 @@
       "id": "93F7B164-6527-49C1-A161-577A2B705C1D"
     },
     {
+      "class": "shapeGroup",
+      "id": "3E31CFA2-33FE-4665-A634-CEE18BE6AD33"
+    },
+    {
       "class": "symbolInstance",
       "id": "0C5E00EA-1DF8-49E0-B233-B1877BA5511C"
+    },
+    {
+      "class": "group",
+      "id": "BDAD4860-6C1E-4D68-A469-56687D370B53"
     }
   ],
   "name": "节点投票",

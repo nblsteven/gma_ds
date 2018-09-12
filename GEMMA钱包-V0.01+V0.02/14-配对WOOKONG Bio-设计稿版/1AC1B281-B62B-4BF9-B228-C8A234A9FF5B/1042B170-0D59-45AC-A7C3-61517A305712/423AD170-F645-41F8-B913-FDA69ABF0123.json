@@ -9,40 +9,40 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4039215686,
-            "green": 0.1725490196,
-            "red": 0.1294117647
+            "blue": 0.7411764705882353,
+            "green": 0.6392156862745098,
+            "red": 0.6196078431372549
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PingFangSC-Regular",
-              "size": 16
+              "size": 12
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
+            "maximumLineHeight": 12,
+            "minimumLineHeight": 12
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 17,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "第一款支持EOS的蓝牙指纹硬件钱包"
+    "string": "1.确保手机蓝牙已开启"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "D1CF5305-4059-4964-98D8-D4AB96D797F9",
+  "do_objectID": "423AD170-F645-41F8-B913-FDA69ABF0123",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "7538D582-4B48-46C5-A581-1D6AB2F43155",
+    "do_objectID": "D9B71022-A077-4209-A36F-990CC58016D2",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,13 +53,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F8651A53-FC42-4CCB-B0C8-F81C73212A08",
-    "height": 16,
-    "width": 300,
-    "x": 22,
-    "y": 0
+    "do_objectID": "D428EFA2-9B58-4F30-B9F0-C26BA234DC0E",
+    "height": 13,
+    "width": 311,
+    "x": 0,
+    "y": 31
   },
-  "glyphBounds": "{{22, 0}, {256, 16}}",
+  "glyphBounds": "{{0, 0}, {115, 12}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "第一款支持EOS的蓝牙指纹硬件钱包",
+  "name": "1.确保手机蓝牙已开启",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -75,35 +75,36 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "BADBC71E-FBBA-4B35-82DA-913C66EEF0AD",
+    "do_objectID": "2060108E-3780-47EC-87C7-D6057FB5BFB5",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "195D4FAB-3864-4AB7-BB00-605A33E61850",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "46412089-FF85-48BA-911E-9C68F8D2CB43",
+      "do_objectID": "4BEC7110-9D86-451C-9F6D-612B9DB7FA3A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4039215686,
-          "green": 0.1725490196,
-          "red": 0.1294117647
+          "blue": 0.7411764705882353,
+          "green": 0.6392156862745098,
+          "red": 0.6196078431372549
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PingFangSC-Regular",
-            "size": 16
+            "size": 12
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16
+          "maximumLineHeight": 12,
+          "minimumLineHeight": 12
         },
         "textStyleVerticalAlignmentKey": 0
       },

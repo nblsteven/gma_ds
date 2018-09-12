@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4039215686,
-            "green": 0.1725490196,
-            "red": 0.1294117647
+            "blue": 0.8313725490196078,
+            "green": 0.4196078431372549,
+            "red": 0.2588235294117647
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PingFangSC-Regular",
-              "size": 16
+              "size": 12
             }
           },
           "kerning": 0,
@@ -25,24 +25,26 @@
             "_class": "paragraphStyle",
             "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
+            "maximumLineHeight": 12,
+            "minimumLineHeight": 12
           },
-          "textStyleVerticalAlignmentKey": 0
+          "strikethroughStyle": 0,
+          "textStyleVerticalAlignmentKey": 0,
+          "underlineStyle": 1
         },
-        "length": 17,
+        "length": 22,
         "location": 0
       }
     ],
-    "string": "第一款支持EOS的蓝牙指纹硬件钱包"
+    "string": "点击查看更多的 WOOKONG Bio 介绍"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "D1CF5305-4059-4964-98D8-D4AB96D797F9",
+  "do_objectID": "ED545B1B-C44D-4DFB-9488-7AAB36501892",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "7538D582-4B48-46C5-A581-1D6AB2F43155",
+    "do_objectID": "2E524D07-FE8F-4925-991D-B50C4B56EB8D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,13 +55,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F8651A53-FC42-4CCB-B0C8-F81C73212A08",
-    "height": 16,
-    "width": 300,
-    "x": 22,
-    "y": 0
+    "do_objectID": "66195E73-DDE1-4BDF-819D-18EBE8A63946",
+    "height": 12,
+    "width": 204,
+    "x": 70,
+    "y": 260
   },
-  "glyphBounds": "{{22, 0}, {256, 16}}",
+  "glyphBounds": "{{1, 0}, {202, 12}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -67,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "第一款支持EOS的蓝牙指纹硬件钱包",
+  "name": "点击查看更多的 WOOKONG Bio",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -75,26 +77,27 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "BADBC71E-FBBA-4B35-82DA-913C66EEF0AD",
+    "do_objectID": "995C929F-8CE4-4F3E-B46F-C6589F614E42",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "195D4FAB-3864-4AB7-BB00-605A33E61850",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "46412089-FF85-48BA-911E-9C68F8D2CB43",
+      "do_objectID": "FB5A53F2-88CD-45C9-B19D-FB2B19A4B25A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4039215686,
-          "green": 0.1725490196,
-          "red": 0.1294117647
+          "blue": 0.8313725490196078,
+          "green": 0.4196078431372549,
+          "red": 0.2588235294117647
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PingFangSC-Regular",
-            "size": 16
+            "size": 12
           }
         },
         "kerning": 0,
@@ -102,10 +105,12 @@
           "_class": "paragraphStyle",
           "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16
+          "maximumLineHeight": 12,
+          "minimumLineHeight": 12
         },
-        "textStyleVerticalAlignmentKey": 0
+        "strikethroughStyle": 0,
+        "textStyleVerticalAlignmentKey": 0,
+        "underlineStyle": 1
       },
       "verticalAlignment": 0
     },

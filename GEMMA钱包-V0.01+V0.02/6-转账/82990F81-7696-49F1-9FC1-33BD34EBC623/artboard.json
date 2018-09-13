@@ -46,7 +46,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -92,6 +92,10 @@
     {
       "class": "group",
       "id": "A9D7858A-8F57-4703-A883-63F2B6D21F37"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "111DD944-C324-4C9F-AEBF-02C0CB632265"
     }
   ],
   "name": "6-转账-若有多个账户 可切换",

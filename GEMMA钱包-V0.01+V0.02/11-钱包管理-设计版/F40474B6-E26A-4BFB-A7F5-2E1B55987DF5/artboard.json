@@ -26,7 +26,7 @@
     ],
     "includedLayerIds": [
     ],
-    "layerOptions": 0,
+    "layerOptions": 2,
     "shouldTrim": false
   },
   "frame": {
@@ -35,8 +35,8 @@
     "do_objectID": "406FF0F2-85F4-4347-8F35-A6E273BECF57",
     "height": 667,
     "width": 375,
-    "x": -309,
-    "y": 7732
+    "x": 641,
+    "y": 9152
   },
   "grid": {
     "_class": "simpleGrid",
@@ -46,7 +46,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -64,7 +64,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -83,7 +83,7 @@
       "id": "1249B3F8-112C-425F-ADD7-6803074362A9"
     }
   ],
-  "name": "11-钱包管理",
+  "name": "11-钱包管理-已配对wookong-已连接-未选中",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -104,6 +104,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "F40474B6-E26A-4BFB-A7F5-2E1B55987DF5"
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

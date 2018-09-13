@@ -1,11 +1,11 @@
 {
   "_class": "shapeGroup",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "64293B07-2432-4CB3-9CF8-043F620E590B",
+  "do_objectID": "9ABA7813-B851-4ABE-A2F9-5311CA2AF7D2",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "ABFB5F92-45F1-4E27-847D-CCE0FD6E6BFE",
+    "do_objectID": "F6BB6C64-523E-4F20-9E8C-5384087C81CE",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,12 +15,12 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "do_objectID": "B08F1219-2EF9-4E60-8677-477CF2EB5DD2",
-    "height": 44,
-    "width": 311,
-    "x": 0,
-    "y": 0
+    "constrainProportions": true,
+    "do_objectID": "0B776231-9E38-4B54-803C-0FEBB146A82F",
+    "height": 20,
+    "width": 16,
+    "x": 16,
+    "y": 14
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,38 +29,22 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "E3483F91-C2FD-4F42-80E0-03F3DD4C400E"
+      "class": "shapePath",
+      "id": "8730925D-CC66-4007-9DFF-29C431F48A75"
     }
   ],
-  "name": "Rectangle 3",
+  "name": "Fill 1",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.8313725490196078,
-          "green": 0.4196078431372549,
-          "red": 0.2588235294117647
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 1,
-        "thickness": 1
-      }
-    ],
-    "do_objectID": "6DD06416-09F1-48D3-B3CA-1BF5EB120DED",
+    "do_objectID": "8F1D1284-67B7-4F16-8D0C-1D99E7C7AD31",
     "endMarkerType": 0,
     "fills": [
       {
@@ -68,9 +52,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8313725490196078,
-          "green": 0.4196078431372549,
-          "red": 0.2588235294117647
+          "blue": 0,
+          "green": 0.3333333333333333,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,

@@ -26,7 +26,7 @@
     ],
     "includedLayerIds": [
     ],
-    "layerOptions": 0,
+    "layerOptions": 2,
     "shouldTrim": false
   },
   "frame": {
@@ -35,8 +35,8 @@
     "do_objectID": "59D2285E-7531-4D74-9EA3-4B01E47B00D6",
     "height": 667,
     "width": 375,
-    "x": -2740,
-    "y": 7245
+    "x": 1596,
+    "y": 10283
   },
   "grid": {
     "_class": "simpleGrid",
@@ -87,7 +87,7 @@
       "id": "B713CED7-0603-470B-8FC5-ACB712C47358"
     }
   ],
-  "name": "11-钱包详情",
+  "name": "11-钱包详情-wookong-已连接",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -108,6 +108,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "FF1AFA2C-B486-4549-AD80-B97832DC5D0B"
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

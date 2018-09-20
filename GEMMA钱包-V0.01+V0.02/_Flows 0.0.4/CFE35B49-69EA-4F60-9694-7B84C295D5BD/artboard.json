@@ -15,10 +15,10 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "png",
+        "fileFormat": "jpg",
         "name": "",
         "namingScheme": 0,
-        "scale": 1,
+        "scale": 2,
         "visibleScaleType": 0
       }
     ],
@@ -36,7 +36,7 @@
     "y": -5035
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -172,6 +172,10 @@
     {
       "class": "group",
       "id": "F3F9C1C6-D8FF-4566-855A-D7C5F365812C"
+    },
+    {
+      "class": "group",
+      "id": "D7E4324B-9311-44D1-849C-57A5754B7DA5"
     }
   ],
   "name": "概览-转账 0.0.4",

@@ -15,10 +15,10 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "png",
+        "fileFormat": "jpg",
         "name": "",
         "namingScheme": 0,
-        "scale": 1,
+        "scale": 2,
         "visibleScaleType": 0
       }
     ],
@@ -36,7 +36,7 @@
     "y": -4939
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -212,6 +212,10 @@
     {
       "class": "bitmap",
       "id": "13191B6F-9921-4A92-B115-A9814432B959"
+    },
+    {
+      "class": "group",
+      "id": "DC71BC7B-CB07-4EB4-ABDB-F60AD9123665"
     }
   ],
   "name": "概览-蓝牙卡配对 0.0.4",

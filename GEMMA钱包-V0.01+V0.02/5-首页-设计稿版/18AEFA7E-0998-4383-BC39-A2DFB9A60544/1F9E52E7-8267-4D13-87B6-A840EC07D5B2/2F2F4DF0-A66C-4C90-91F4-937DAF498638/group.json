@@ -1,10 +1,9 @@
 {
   "_class": "group",
-  "booleanOperation": 0,
-  "do_objectID": "914B7377-6595-4C79-8980-0A0AF98F792C",
+  "booleanOperation": -1,
+  "do_objectID": "2F2F4DF0-A66C-4C90-91F4-937DAF498638",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5624CD04-E033-4899-8BE1-EF7F686D60FE",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,11 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3254625D-0848-4678-8A4E-28AD02288FFB",
-    "height": 45,
-    "width": 48,
-    "x": 38,
-    "y": 2
+    "height": 34,
+    "width": 34,
+    "x": 8,
+    "y": 8
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -27,18 +25,18 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "2BB47B77-0759-4EF3-B8A2-114D92EE9EB6"
+      "class": "slice",
+      "id": "CC468FCC-23B0-463D-9AE9-BCAAE1D94839"
     },
     {
-      "class": "symbolInstance",
-      "id": "B1CEC2FF-9BCF-4E88-9348-EA415290D7E6"
+      "class": "shapeGroup",
+      "id": "55C493E9-D090-4451-B2F7-60CE8764BC19"
     }
   ],
-  "name": "钱包",
+  "name": "ic_WOOKONG",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -46,16 +44,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B3493923-89D9-4B78-8A88-815A1413BD73",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
   }
 }

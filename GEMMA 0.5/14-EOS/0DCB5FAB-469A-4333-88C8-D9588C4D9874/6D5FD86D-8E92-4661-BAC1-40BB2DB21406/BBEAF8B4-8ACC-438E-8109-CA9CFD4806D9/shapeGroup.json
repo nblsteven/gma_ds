@@ -13,6 +13,11 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "C20A1C39-451E-4247-9BEB-94D9E9E2D1AF"
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -20,7 +25,7 @@
     "height": 36,
     "width": 157,
     "x": 22,
-    "y": 7
+    "y": 2
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -68,9 +73,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9647058823529412,
+          "blue": 0.8313725490196078,
           "green": 0.4196078431372549,
-          "red": 0.0705882352941176
+          "red": 0.2588235294117647
         },
         "fillType": 0,
         "isEnabled": true,

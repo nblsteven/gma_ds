@@ -30,11 +30,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 45,
+        "length": 57,
         "location": 0
       }
     ],
-    "string": "请务必备份私钥，私钥掌管着数字资产的控制权及所有权。当意外发生时，这是唯一找回资产的途径。"
+    "string": "请务必备份助记词，助记词能够恢复私钥，而私钥掌管着数字资产的控制权及所有权。当意外发生时，这是唯一找回资产的途径。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -54,12 +54,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6ACFCF3A-B0B0-4536-BCC4-CBD6FF506E88",
-    "height": 66,
+    "height": 89,
     "width": 285,
     "x": 22,
     "y": 0
   },
-  "glyphBounds": "{{0, 3}, {272, 60}}",
+  "glyphBounds": "{{0, 3}, {272, 82}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "请务必备份私钥，私钥掌管着数字资产的控制",
+  "name": "请务必备份助记词，助记词能够恢复私钥，而",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -72,6 +72,14 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0,
+      "type": 2
+    },
     "do_objectID": "05B93B0B-DDAB-4789-9BD2-37919E406344",
     "endMarkerType": 0,
     "miterLimit": 10,

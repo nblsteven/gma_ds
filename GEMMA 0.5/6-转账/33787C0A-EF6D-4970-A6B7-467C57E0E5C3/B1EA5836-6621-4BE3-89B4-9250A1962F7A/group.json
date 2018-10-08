@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
+    "height": 44,
     "width": 375,
     "x": 0,
     "y": 20
@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -36,6 +36,14 @@
     {
       "class": "group",
       "id": "99006A94-C609-42B5-9353-9EAC05A31E02"
+    },
+    {
+      "class": "text",
+      "id": "A43C9283-B3AD-4DDE-8098-896A6AD066CC"
+    },
+    {
+      "class": "text",
+      "id": "9DAF42EE-CDA8-4357-ADD1-DA505D448FE9"
     }
   ],
   "name": "Nav Bar",

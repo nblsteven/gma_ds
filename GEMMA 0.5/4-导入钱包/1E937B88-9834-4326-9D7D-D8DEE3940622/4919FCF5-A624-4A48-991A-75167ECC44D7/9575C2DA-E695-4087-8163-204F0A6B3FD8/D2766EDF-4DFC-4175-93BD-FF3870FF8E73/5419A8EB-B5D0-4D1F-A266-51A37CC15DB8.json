@@ -1,7 +1,6 @@
 {
   "_class": "oval",
   "booleanOperation": 1,
-  "clippingMaskMode": 0,
   "do_objectID": "5419A8EB-B5D0-4D1F-A266-51A37CC15DB8",
   "edited": false,
   "exportOptions": {
@@ -23,7 +22,6 @@
     "x": 14.81481481481482,
     "y": 17.77777777777779
   },
-  "hasClippingMask": false,
   "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -79,57 +77,5 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
-  "style": {
-    "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "do_objectID": "C50705FA-F325-4259-93D9-8B70C2B5AADE",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 6.5,
-      "saturation": 1,
-      "type": 0
-    },
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.8196078431372549,
-          "green": 0.4117647058823528,
-          "red": 0.2549019607843137
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "position": 1,
-        "thickness": 2
-      }
-    ],
-    "do_objectID": "069B036E-57E2-498F-9D92-60A4BE77BE77",
-    "endMarkerType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.8352941176470589,
-          "green": 0.4352941176470592,
-          "red": 0.2784313725490197
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
-    "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 0
-  }
+  "shouldBreakMaskChain": false
 }

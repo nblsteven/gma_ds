@@ -1,7 +1,6 @@
 {
   "_class": "rectangle",
   "booleanOperation": -1,
-  "clippingMaskMode": 0,
   "do_objectID": "2F5669B3-6181-4877-A7F8-934688E975C8",
   "edited": false,
   "exportOptions": {
@@ -24,7 +23,6 @@
     "x": 1,
     "y": 36
   },
-  "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
   "isClosed": true,
   "isFixedToViewport": false,
@@ -82,42 +80,6 @@
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
-  "style": {
-    "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "do_objectID": "DC5F7272-7692-47A5-8EB3-ECD22FAF8D97",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 5.580357142857143,
-      "saturation": 1,
-      "type": 3
-    },
-    "do_objectID": "53D54B6E-39F8-46E6-9AF4-AE3D685579CB",
-    "endMarkerType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.9333333333333333,
-          "green": 0.8941176470588236,
-          "red": 0.8784313725490196
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 0,
-        "patternTileScale": 1
-      }
-    ],
-    "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
-  },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

@@ -1,7 +1,6 @@
 {
   "_class": "oval",
   "booleanOperation": -1,
-  "clippingMaskMode": 0,
   "do_objectID": "6F8EF8AD-6D29-4813-B31A-742D202177EA",
   "edited": false,
   "exportOptions": {
@@ -21,7 +20,6 @@
     "x": 174,
     "y": -55
   },
-  "hasClippingMask": false,
   "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -77,77 +75,5 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
-  "style": {
-    "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.98,
-          "green": 0.98,
-          "red": 0.98
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "position": 0,
-        "thickness": 0.5
-      }
-    ],
-    "endMarkerType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
-        },
-        "fillType": 1,
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{0.43868230389216684, 0.60994497966327355}",
-          "gradientType": 0,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 1,
-                "green": 1,
-                "red": 1
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.9500000000000001,
-                "green": 0.9500000000000001,
-                "red": 0.9500000000000001
-              },
-              "position": 1
-            }
-          ],
-          "to": "{0.17890024301577934, 0.8980251590930175}"
-        },
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
-    "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 0
-  }
+  "shouldBreakMaskChain": false
 }

@@ -1,7 +1,6 @@
 {
   "_class": "shapePath",
   "booleanOperation": -1,
-  "clippingMaskMode": 0,
   "do_objectID": "FC177869-802F-4F44-802F-88AEFC3BC3F1",
   "edited": true,
   "exportOptions": {
@@ -21,7 +20,6 @@
     "x": 0.3289260487774754,
     "y": 0.5163104747040279
   },
-  "hasClippingMask": false,
   "isClosed": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -177,76 +175,5 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
-  "style": {
-    "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "isEnabled": true,
-      "motionAngle": 0,
-      "radius": 1,
-      "saturation": 1,
-      "type": 0
-    },
-    "borderOptions": {
-      "_class": "borderOptions",
-      "dashPattern": [
-      ],
-      "isEnabled": false,
-      "lineCapStyle": 1,
-      "lineJoinStyle": 1
-    },
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "fillType": 1,
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{0.5, 0.93174943843647651}",
-          "gradientType": 0,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 0,
-                "blue": 0.6,
-                "green": 0.6,
-                "red": 0.6
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 0.5,
-                "blue": 0,
-                "green": 0,
-                "red": 0
-              },
-              "position": 1
-            }
-          ],
-          "to": "{0.5, 0}"
-        },
-        "isEnabled": true,
-        "position": 0,
-        "thickness": 2
-      }
-    ],
-    "endMarkerType": 0,
-    "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
-  }
+  "shouldBreakMaskChain": false
 }

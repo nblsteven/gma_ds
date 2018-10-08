@@ -46,7 +46,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -62,7 +62,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -78,15 +78,15 @@
     },
     {
       "class": "group",
-      "id": "4CE8CD4B-1F4E-42BF-911B-DEE8F6D8E201"
-    },
-    {
-      "class": "group",
       "id": "49EFAC7F-0FFB-4623-93DC-897C0BD1CAB5"
     },
     {
       "class": "symbolInstance",
       "id": "5FD830B1-F04B-43D0-93FA-D4DCD17B216C"
+    },
+    {
+      "class": "group",
+      "id": "4CE8CD4B-1F4E-42BF-911B-DEE8F6D8E201"
     }
   ],
   "name": "1-启动",

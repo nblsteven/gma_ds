@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "3C9FCDAC-BBB1-456E-9F58-DD9A168793A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0A72AB81-9642-4E99-B7D0-E9F47B9F28E7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "B54E88FA-BEEA-4313-A503-2893F39D23A1",
+    "do_objectID": "D6F5CE09-A3CA-4D0D-8328-66C80B74F37B"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4A1DB785-538A-477F-8D20-BF817641B169",
+    "height": 40,
+    "width": 249,
+    "x": 16,
+    "y": 16
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EBF9F8CC-9782-4642-9280-9B9409F9236E"
+    },
+    {
+      "class": "text",
+      "id": "8BAC11DE-BB80-451B-9EE0-1F881462D75C"
+    }
+  ],
+  "name": "Condition 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "96A7B3AC-0C17-4A0D-A25A-3BA7355C3F3E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "isConditionGroup": 1
+    }
+  }
+}

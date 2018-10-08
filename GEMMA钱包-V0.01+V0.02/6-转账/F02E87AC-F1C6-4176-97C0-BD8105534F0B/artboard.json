@@ -46,7 +46,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -88,6 +88,10 @@
     {
       "class": "group",
       "id": "24EBEC57-629A-450D-9157-FBC3E47979A2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2129D7A7-D207-4C7B-9D10-90846FEA487E"
     }
   ],
   "name": "6-转账-填完信息",

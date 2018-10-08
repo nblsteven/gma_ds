@@ -62,7 +62,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -70,7 +70,15 @@
     },
     {
       "class": "group",
+      "id": "9B562B53-7CEF-4C34-B6CE-CA3F535C3283"
+    },
+    {
+      "class": "group",
       "id": "66602CBC-F4EF-4963-8FED-59A8C7437CBB"
+    },
+    {
+      "class": "group",
+      "id": "3A00AF12-343C-44BF-9BA7-61FC292D2F54"
     },
     {
       "class": "group",
@@ -90,14 +98,14 @@
     },
     {
       "class": "group",
-      "id": "B3EAC109-CA1F-4593-8BA9-5A2867F58FC6"
+      "id": "FD0219CA-779D-4561-9448-0C1C7051D0C7"
     },
     {
       "class": "group",
       "id": "5A295ADA-D808-4CD3-B3BB-E4C1BAC7CD35"
     }
   ],
-  "name": "11-钱包详情",
+  "name": "11-钱包详情-导入的钱包",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

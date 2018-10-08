@@ -1,6 +1,7 @@
 {
   "_class": "shapePath",
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "A089667B-815B-4BC2-B9CF-A8156CB89680",
   "edited": true,
   "exportOptions": {
@@ -22,6 +23,7 @@
     "x": 0,
     "y": 0
   },
+  "hasClippingMask": false,
   "isClosed": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -237,5 +239,62 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "47DA2AB3-B6C0-4021-BB32-D37CE54CD223",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8705882352941177,
+          "green": 0.792156862745098,
+          "red": 0.7764705882352941
+        },
+        "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 1,
+          "from": "{0.84454627213111211, 1}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8784313725490196,
+                "green": 0.5058823529411766,
+                "red": 0.2
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8446085453033447,
+                "green": 0.4293425381183624,
+                "red": 0.7855268716812134
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.21103289498549599, -0.12483233430460888}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
 }

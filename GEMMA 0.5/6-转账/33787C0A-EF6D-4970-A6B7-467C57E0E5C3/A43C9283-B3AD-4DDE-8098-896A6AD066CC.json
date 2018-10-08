@@ -37,6 +37,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "A43C9283-B3AD-4DDE-8098-896A6AD066CC",
   "dontSynchroniseWithSymbol": true,
   "exportOptions": {
@@ -52,7 +53,8 @@
   "flow": {
     "_class": "MSImmutableFlowConnection",
     "animationType": -1,
-    "destinationArtboardID": "A38903D1-CA38-48AD-A8B2-6D1E166DBF59"
+    "destinationArtboardID": "A38903D1-CA38-48AD-A8B2-6D1E166DBF59",
+    "do_objectID": "00B1BEAB-3246-4C64-88EA-614652F2D4CD"
   },
   "frame": {
     "_class": "rect",
@@ -64,6 +66,7 @@
     "y": 35
   },
   "glyphBounds": "{{0, 1}, {28, 14}}",
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -77,13 +80,13 @@
   "resizingConstraint": 44,
   "resizingType": 1,
   "rotation": 0,
+  "sharedStyleID": "63A83B3F-4B11-4F5E-A7D4-A6C4C0676542",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "774337FE-BE18-4EBF-A7E9-169E929955CF",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "63A83B3F-4B11-4F5E-A7D4-A6C4C0676542",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",

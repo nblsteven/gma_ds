@@ -2,10 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3576E195-52D3-4AF5-8B81-B902B26D409C",
+  "do_objectID": "4A6026FD-A360-40AE-B863-7F3713F9FF53",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A0653AAF-3352-431C-8F2B-9761A884C38D",
+    "do_objectID": "25D74413-5431-4E71-AFE8-AF454D750369",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,10 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "D938B9CC-67B0-4F35-8575-6BEA74B7517F",
+    "do_objectID": "D342E11E-257F-461B-93B8-37A85BA83A44",
     "height": 220,
     "width": 220,
-    "x": 174,
+    "x": 184,
     "y": -75
   },
   "hasClickThrough": false,
@@ -33,7 +33,7 @@
   "layers": [
     {
       "class": "oval",
-      "id": "E8AAA649-06A9-40A7-9804-7A8089891C3B"
+      "id": "581C41A6-D297-4E7E-BF65-A968F1FA5B10"
     }
   ],
   "name": "Oval 2",
@@ -44,7 +44,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "24000913-798D-40B8-A3ED-6DCF90357619",
+    "do_objectID": "2B0D9B03-CECB-4056-844D-60BE9B21F456",
     "endMarkerType": 0,
     "fills": [
       {
@@ -60,14 +60,14 @@
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
-          "from": "{0.17890024301577945, 0.8980251590930175}",
+          "from": "{-0.11504196319174607, 0.29602038792583985}",
           "gradientType": 0,
           "stops": [
             {
               "_class": "gradientStop",
               "color": {
                 "_class": "color",
-                "alpha": 0,
+                "alpha": 0.1,
                 "blue": 0,
                 "green": 0,
                 "red": 0
@@ -86,7 +86,7 @@
               "position": 1
             }
           ],
-          "to": "{0.70301427981784648, 0.27145578770013523}"
+          "to": "{0.28890893082242736, 0.92113674662793132}"
         },
         "isEnabled": true,
         "noiseIndex": 0,

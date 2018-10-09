@@ -2,10 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C2029818-74C6-40BF-91B8-303D41893765",
+  "do_objectID": "1D25EB30-569C-44D9-B994-ACAB318847A9",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5614E26E-24C7-497F-9ED0-1079E43DA6F8",
+    "do_objectID": "45A39151-BECE-4FA1-A90F-EDA8507232DF",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "1B38AB4D-DCDA-4858-ABBA-0034758B2E75",
+    "do_objectID": "3D7C8B74-DCCE-4A88-99AB-8BC889719EE0",
     "height": 220,
     "width": 220,
-    "x": 174,
-    "y": -75
+    "x": 184,
+    "y": -85
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,7 +33,7 @@
   "layers": [
     {
       "class": "oval",
-      "id": "7FB947B3-FA25-465E-8149-E4CF24D1AC41"
+      "id": "693BD19C-923D-4465-A1D8-802A5BEC6D8C"
     }
   ],
   "name": "Oval 2",
@@ -44,7 +44,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "25D8A806-B7EB-4954-8EF5-EB50B8900451",
+    "do_objectID": "DB8114A6-C112-4862-A053-22CF082ADA2D",
     "endMarkerType": 0,
     "fills": [
       {
@@ -60,14 +60,14 @@
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
-          "from": "{0.17890024301577945, 0.8980251590930175}",
+          "from": "{-0.11504196319174607, 0.29602038792583985}",
           "gradientType": 0,
           "stops": [
             {
               "_class": "gradientStop",
               "color": {
                 "_class": "color",
-                "alpha": 0,
+                "alpha": 0.1,
                 "blue": 0,
                 "green": 0,
                 "red": 0
@@ -86,7 +86,7 @@
               "position": 1
             }
           ],
-          "to": "{0.70301427981784648, 0.27145578770013523}"
+          "to": "{0.28890893082242736, 0.92113674662793132}"
         },
         "isEnabled": true,
         "noiseIndex": 0,

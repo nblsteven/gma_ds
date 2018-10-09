@@ -1,0 +1,94 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8B435EFF-6A87-4229-9CEE-8E07984B5B19",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "39017183-2FA0-4BCA-BA71-E910F91C9013",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B2338EA2-567D-46B2-A843-F1CCCF2D801A",
+    "height": 45,
+    "width": 37.8,
+    "x": 8,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A8FE7C61-4BBD-4476-BE94-B0CCB7CB98F2"
+    },
+    {
+      "class": "shapePath",
+      "id": "3FA8A1FB-DA83-42EA-834F-C29CFE0C7F91"
+    },
+    {
+      "class": "shapePath",
+      "id": "B7E5632B-7CBE-49BA-847D-99F09C9D5617"
+    }
+  ],
+  "name": "ic_common_security",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "198FD93C-03B4-4B4A-ABE6-E7FCF5D8F088",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9.438,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8313725490196078,
+          "green": 0.4196078431372549,
+          "red": 0.2588235294117647
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 2
+      }
+    ],
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "6116B790-9034-4FA9-8C49-B1B9694F3311",
+      "opacity": 0.9700000286102295
+    },
+    "do_objectID": "4285262E-B04B-4DDF-8927-3E52B5057C08",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "EE248C49-B41E-4D50-ADB4-785FC787EC99",
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

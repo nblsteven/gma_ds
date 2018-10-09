@@ -46,7 +46,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -65,39 +65,51 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "6FFE3EE5-4F29-4CCC-8710-48E42DA5042E"
-    },
-    {
-      "class": "group",
-      "id": "AE304AA9-5E60-4D4D-B99B-A8653E9C97F0"
-    },
-    {
-      "class": "text",
-      "id": "EB132127-7359-4AFB-A8BF-B8020F3182A2"
-    },
-    {
       "class": "bitmap",
-      "id": "233065EB-7617-4082-9B4F-49194C4A121C"
+      "id": "1AE995FF-CE02-4202-A6D8-CF8EC5689B2E"
     },
     {
       "class": "group",
-      "id": "8D75DD0A-7521-48B3-9E19-164265034692"
+      "id": "86691F1E-6891-472F-BCAC-A23982D07C71"
     },
     {
       "class": "group",
-      "id": "C550CA49-D4D4-4E7C-8C42-4E7629B89A5F"
+      "id": "D6A44BCB-3B3D-4C1C-8737-3B854040ECC3"
     },
     {
       "class": "group",
-      "id": "7D39E53A-5D08-4E64-A70A-58D10EDD0770"
+      "id": "F996CBD9-447D-4598-9514-1B67C2DB8495"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "110DE9DD-BB6C-4E7F-AB3E-7273B758F878"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C88746E4-8FC7-41A7-BAEC-BD82351C6F72"
     },
     {
       "class": "group",
-      "id": "AE4753AF-EC3A-4D05-A6A8-637F2DBCD7EB"
+      "id": "4E48F9ED-C980-402C-A57D-8E9DEC9F7BED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9B345CA3-D07B-47A1-8920-933B814624B5"
+    },
+    {
+      "class": "group",
+      "id": "62BD12A8-9CEF-42EC-A84F-56FF85DE8084"
+    },
+    {
+      "class": "group",
+      "id": "2D14005B-2F24-4A12-8964-F5FDEC12CB58"
+    },
+    {
+      "class": "group",
+      "id": "5544A2A5-85FC-4FB5-A91D-A2699DEF567B"
     }
   ],
-  "name": "收支记录-默认",
+  "name": "资产详情-ETH类",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

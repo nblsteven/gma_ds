@@ -4,15 +4,13 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "E122D7C6-2568-4DF5-B10F-24B151C409C3",
     "green": 1,
     "red": 1
   },
   "booleanOperation": 0,
-  "do_objectID": "CD4C6E15-A397-4BAF-AB07-F0CA6ED5E40F",
+  "do_objectID": "C3C00C5F-A8ED-4FEF-816C-13E42C0129DB",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "234676D8-CE78-461B-A20D-220D8866C96C",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -32,15 +30,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BE533981-C931-4F56-9C36-6EC90D2E6A26",
     "height": 667,
     "width": 375,
-    "x": 1306,
-    "y": 439
+    "x": 1733,
+    "y": 1166
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "50085ECE-37D5-4BF5-807F-3423B6953977",
     "gridSize": 20,
     "isEnabled": false,
     "thickGridTimes": 10
@@ -50,12 +46,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "38A8572D-BC75-4CD7-8841-E4959D860E83",
     "guides": [
-      20,
-      355,
-      35,
-      340
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -70,34 +61,54 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "BEA06951-11D4-47D9-B2BD-D2445DEE007C"
+      "id": "3F207A9B-5E32-40F5-8FAF-F87A4E4382C7"
     },
     {
       "class": "group",
-      "id": "B17BE950-DACE-48E7-B835-6B2258AE6169"
+      "id": "C2C5E3BB-1C12-4E79-ADC2-75B8FBCD8583"
     },
     {
       "class": "group",
-      "id": "57C2C22D-CD17-4DD2-A172-53C666A2B28D"
+      "id": "219A3BD7-742C-427D-BB53-DBABDA56FD1F"
     },
     {
       "class": "group",
-      "id": "67575A79-A036-4BA9-BF60-E4DE9C2156C4"
+      "id": "F6F4316F-63AC-4839-8754-A58FD88FD423"
     },
     {
       "class": "group",
-      "id": "BD721F29-EDB3-48E4-A7F6-B0945AF99C02"
+      "id": "FE2141B3-8269-4599-BD21-B4EC63996E04"
     },
     {
       "class": "group",
-      "id": "62395846-DAE9-45F9-A106-1B78395ADB8B"
+      "id": "61156FD9-BBA9-4BB0-902F-BF7625796274"
     },
     {
       "class": "group",
-      "id": "70F9E99C-ACF5-404A-A5E2-60EC91EE4015"
+      "id": "B80CE527-6890-45A2-B16A-4C4E02C2FBF9"
+    },
+    {
+      "class": "group",
+      "id": "EBAC01A1-9267-4329-B2A9-69B7A2F6171D"
+    },
+    {
+      "class": "text",
+      "id": "A7E10633-0F27-4C6E-8923-829B9787BE84"
+    },
+    {
+      "class": "text",
+      "id": "DA3DC027-3505-4A3F-99D2-F5C802CB12DC"
+    },
+    {
+      "class": "text",
+      "id": "E6A7BFA3-B9D6-4DE2-8F89-49AC8B5C974A"
+    },
+    {
+      "class": "group",
+      "id": "1C049D02-1FCA-4F30-BD06-321A793D4E75"
     }
   ],
-  "name": "4-配置钱包",
+  "name": "4-导入到已有钱包-输入密码",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -113,7 +124,6 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "FD216A50-FF29-4D2D-9EB3-FF3CD99B7478",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -122,10 +132,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "AED3CBD0-177C-4EB3-963A-70A36C9900CC",
     "guides": [
-      76,
-      142
     ]
   }
 }

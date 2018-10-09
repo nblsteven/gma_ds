@@ -1,10 +1,10 @@
 {
   "_class": "group",
   "booleanOperation": 0,
-  "do_objectID": "07634A4B-2F73-4E39-B3D2-34790D609397",
+  "do_objectID": "39F0E6BB-D262-4CF0-A3C3-514D504F857E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "AD710F6C-A9FA-41C8-B82A-1648CA35B114",
+    "do_objectID": "E215726E-26F6-4A2C-A3A0-C9756D9C8FDF",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -12,19 +12,14 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "flow": {
-    "_class": "MSImmutableFlowConnection",
-    "animationType": 2,
-    "destinationArtboardID": "39070965-89DB-471D-8891-933D6D866A40"
-  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "1699C284-5A98-4771-9EBF-AE8C8D877628",
-    "height": 44,
-    "width": 305,
-    "x": 15,
-    "y": 150
+    "do_objectID": "96E4193F-DD70-42C8-A738-4329F4E874D0",
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 20
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -32,26 +27,26 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "BCD928B7-2CBD-4E3F-A370-EF3A0076E97E"
+      "id": "5DEF872F-232E-4924-9CE9-FAB68FD9601F"
     },
     {
-      "class": "text",
-      "id": "74444C14-92BD-4022-9190-4A1B981797AE"
+      "class": "group",
+      "id": "18E976AE-6458-4665-BB05-5CB87779B5D2"
     }
   ],
-  "name": "button",
-  "nameIsFixed": false,
+  "name": "Nav Bar",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "8B058AF4-8954-4B2F-8DDA-56668502D7E0",
+    "do_objectID": "82C8319E-16EC-4401-87B3-76D453293582",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

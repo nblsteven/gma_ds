@@ -1,10 +1,10 @@
 {
   "_class": "group",
   "booleanOperation": 0,
-  "do_objectID": "07634A4B-2F73-4E39-B3D2-34790D609397",
+  "do_objectID": "18E976AE-6458-4665-BB05-5CB87779B5D2",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "AD710F6C-A9FA-41C8-B82A-1648CA35B114",
+    "do_objectID": "2D968185-2DF2-407E-9EF1-1E38F71EA663",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -12,19 +12,14 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "flow": {
-    "_class": "MSImmutableFlowConnection",
-    "animationType": 2,
-    "destinationArtboardID": "39070965-89DB-471D-8891-933D6D866A40"
-  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "1699C284-5A98-4771-9EBF-AE8C8D877628",
-    "height": 44,
-    "width": 305,
-    "x": 15,
-    "y": 150
+    "do_objectID": "5F91DFB6-024A-4CD5-850A-040E3B62736B",
+    "height": 24,
+    "width": 24,
+    "x": 14,
+    "y": 10
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -35,15 +30,15 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "BCD928B7-2CBD-4E3F-A370-EF3A0076E97E"
+      "class": "slice",
+      "id": "22437B2F-5361-46D7-9292-D27E004702FD"
     },
     {
-      "class": "text",
-      "id": "74444C14-92BD-4022-9190-4A1B981797AE"
+      "class": "shapeGroup",
+      "id": "0E2066DA-520E-4105-B714-650B6E567A2A"
     }
   ],
-  "name": "button",
+  "name": "ic_notify_back_white",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -51,7 +46,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "8B058AF4-8954-4B2F-8DDA-56668502D7E0",
+    "do_objectID": "93136DEE-92D1-467F-8714-7A5111A57FAB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

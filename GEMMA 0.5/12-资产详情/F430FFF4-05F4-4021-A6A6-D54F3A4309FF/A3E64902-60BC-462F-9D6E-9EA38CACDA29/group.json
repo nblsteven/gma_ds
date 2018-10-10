@@ -1,10 +1,10 @@
 {
   "_class": "group",
-  "booleanOperation": 0,
-  "do_objectID": "3289D167-DD5F-4C97-99BE-D9C95E00B321",
+  "booleanOperation": -1,
+  "do_objectID": "A3E64902-60BC-462F-9D6E-9EA38CACDA29",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3B89095E-D349-4AC9-98EF-97A0A8684E04",
+    "do_objectID": "FAFA2195-BEB2-46A3-BFBA-6176270BE5DB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -12,19 +12,14 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "flow": {
-    "_class": "MSImmutableFlowConnection",
-    "animationType": 2,
-    "destinationArtboardID": "F430FFF4-05F4-4021-A6A6-D54F3A4309FF"
-  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "449D7206-7F6D-49F6-8BBD-A96BBCA6E4BC",
-    "height": 40,
-    "width": 150,
-    "x": 205,
-    "y": 246
+    "do_objectID": "2BD1DE48-0217-437D-A1DC-52F0910C1928",
+    "height": 110,
+    "width": 335,
+    "x": 20,
+    "y": 349
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -36,14 +31,18 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "152FE748-88C0-4483-A263-13967290A18E"
+      "id": "E1F64CDE-DA71-4384-B01C-B3B21C05EB7A"
     },
     {
       "class": "text",
-      "id": "63F938FB-BF85-48B5-8FA4-5123A2FD8B02"
+      "id": "30AD8AB9-75A2-458B-BD72-D01A950C7C5C"
+    },
+    {
+      "class": "group",
+      "id": "24AEE5D7-1161-408B-A9DC-0313DDBBBB40"
     }
   ],
-  "name": "Group 4",
+  "name": "Group 6",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -51,7 +50,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "77C41636-145E-4110-9412-0069A8BDE129",
+    "do_objectID": "F203575E-A20E-4227-BC98-8B9C37832124",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

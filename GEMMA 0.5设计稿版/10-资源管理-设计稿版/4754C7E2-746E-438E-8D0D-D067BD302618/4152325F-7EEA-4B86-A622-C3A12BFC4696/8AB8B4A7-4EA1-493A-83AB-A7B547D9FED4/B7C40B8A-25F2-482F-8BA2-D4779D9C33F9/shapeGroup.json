@@ -1,0 +1,87 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B7C40B8A-25F2-482F-8BA2-D4779D9C33F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BD2C80C2-BBC8-44D8-B3F7-9618EE5445FF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6ED64EF9-CEC9-4DC3-8FC4-557BF0238193",
+    "height": 0.5,
+    "width": 335,
+    "x": 1,
+    "y": 79
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3A13585D-A62F-4A44-BC13-93DBC76CB13D"
+    }
+  ],
+  "name": "Rectangle Copy 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "50DBEEAC-74F8-46A7-B9DB-2EFA3B6E559C",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.580357142857143,
+      "type": 3
+    },
+    "do_objectID": "B6593D30-6775-4783-9152-D04ED8CD17E5",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0.8901960784313725,
+          "green": 0.8666666666666667,
+          "red": 0.8627450980392157
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

@@ -1,7 +1,7 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
-  "do_objectID": "FEDEDD2A-AFA8-48B4-911E-9972802A43F0",
+  "do_objectID": "85F1D244-C711-4C6F-9460-2D4CAD7AA93A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -11,22 +11,20 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 2,
+    "destinationArtboardID": "86A91B97-4430-42A3-A66B-14E23381BD1C"
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 39,
+    "width": 248,
+    "x": 16,
+    "y": 16
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -483,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "hasClickThrough": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -35,12 +33,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "0DCB5FAB-469A-4333-88C8-D9588C4D9874"
+      "class": "shapeGroup",
+      "id": "351A25F4-9CEA-4191-B77F-E36C1BFDE956"
+    },
+    {
+      "class": "text",
+      "id": "B436E7F1-B514-424C-866A-F25C03C482BA"
     }
   ],
-  "name": "15-EOS",
-  "nameIsFixed": true,
+  "name": "Condition 1",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -52,10 +54,9 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -392,
-    "guides": [
-    ]
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "isConditionGroup": 1
+    }
   }
 }

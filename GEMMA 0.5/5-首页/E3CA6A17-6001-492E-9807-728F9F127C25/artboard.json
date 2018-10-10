@@ -4,15 +4,15 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "58737499-6C07-4C78-9D22-37E76E889AEB",
+    "do_objectID": "CC737D56-B44E-4D05-9D99-0A483D39AE64",
     "green": 1,
     "red": 1
   },
   "booleanOperation": 0,
-  "do_objectID": "FCCCDEE6-4F26-4249-AE96-B2CCF1929DCF",
+  "do_objectID": "E3CA6A17-6001-492E-9807-728F9F127C25",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "505A7587-1E65-4DCF-9E61-0A8F8266AFE7",
+    "do_objectID": "E27435DD-E42D-445F-B40F-7CDE820F478F",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -32,26 +32,30 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "54BE0DEA-B69E-4A87-814C-219AB99D8E05",
+    "do_objectID": "3E632781-702D-481C-A4E7-B74A5777B74A",
     "height": 667,
     "width": 375,
-    "x": 494,
-    "y": 826
+    "x": 1085,
+    "y": 35
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "436FC522-C97D-4C07-9E6F-0BF1CC9B818B",
+    "do_objectID": "32E3B7D1-788C-41B2-8673-B45AEC81246A",
     "gridSize": 20,
     "isEnabled": false,
     "thickGridTimes": 10
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "DEFDA6A6-A106-47B2-889A-77421502193F",
+    "do_objectID": "2F52111C-EB95-40D3-BE8A-5413327D90A4",
     "guides": [
+      355,
+      20,
+      35,
+      340
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -62,46 +66,42 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "2316B8B9-2130-41C7-B227-A07DEFA67111"
+      "class": "rectangle",
+      "id": "0CAFCE1D-0F35-468F-B92A-904FB9880B2C"
     },
     {
       "class": "group",
-      "id": "37DC0216-B7BE-4019-8B68-3E7EE5FFA73A"
+      "id": "4D33E9E0-ADCC-4FB9-8A82-D49633302D73"
     },
     {
       "class": "group",
-      "id": "25BA5DDC-4786-49C6-AD6F-551CEFA4344B"
-    },
-    {
-      "class": "bitmap",
-      "id": "4504ABFA-A4E0-4E3C-808F-AB5108F97210"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "9B37557F-5C42-41C7-A17D-74F7B1854664"
+      "id": "91F98E90-F6BD-4160-8FEC-6B50277C42CA"
     },
     {
       "class": "group",
-      "id": "0443CB87-ADDB-4604-868C-F9DE4BF5715B"
+      "id": "AB1F950A-6769-4D42-880F-44E1D1FA647D"
     },
     {
       "class": "group",
-      "id": "BC74AB06-8E38-4A0D-BCE2-0D37C435FB65"
+      "id": "5CB38707-61FF-4389-80C2-8BAB862DD3B7"
     },
     {
       "class": "group",
-      "id": "10175730-D55E-429A-B8F5-005DC2E5EE7F"
+      "id": "665860D1-381D-4A4E-A74C-791C8A185003"
     },
     {
-      "class": "text",
-      "id": "DD52AF4A-47E0-4856-B899-6F1567B8641E"
+      "class": "group",
+      "id": "C74B92E9-9C20-4925-9C70-3485FF988433"
+    },
+    {
+      "class": "group",
+      "id": "775FAC34-F417-40B9-A513-00AADCF26411"
     }
   ],
-  "name": "5-首页-激活中 不可点击",
+  "name": "5-创建EOS账户",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -117,7 +117,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "DA7754B5-74E8-4599-BD27-00E19D42F4ED",
+    "do_objectID": "4ED5DDBA-75DD-40AE-8F45-D2AAD2FB84B9",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -126,8 +126,10 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "F2754C38-3EE8-4459-8324-6609353D4811",
+    "do_objectID": "B3B6C03A-1B40-4032-B469-133BEF3021E1",
     "guides": [
+      76,
+      142
     ]
   }
 }

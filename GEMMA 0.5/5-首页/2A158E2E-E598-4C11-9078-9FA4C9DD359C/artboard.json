@@ -1,7 +1,14 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
-  "do_objectID": "e8afea70-c390-11e8-86c7-716b6ee073a0",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "2A158E2E-E598-4C11-9078-9FA4C9DD359C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,67 +21,61 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 126,
+    "width": 280,
+    "x": 1589,
+    "y": 120
   },
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "9B8897F3-F541-4746-853E-C1F957EF1C53"
+      "class": "group",
+      "id": "E39B5636-F2D1-4DCD-BACC-34C4BC431CB9"
     },
     {
-      "class": "artboard",
-      "id": "FCCCDEE6-4F26-4249-AE96-B2CCF1929DCF"
-    },
-    {
-      "class": "artboard",
-      "id": "57FC761B-A44D-4C19-97ED-450AEFF4AF21"
-    },
-    {
-      "class": "artboard",
-      "id": "E3CA6A17-6001-492E-9807-728F9F127C25"
-    },
-    {
-      "class": "artboard",
-      "id": "2A158E2E-E598-4C11-9078-9FA4C9DD359C"
-    },
-    {
-      "class": "artboard",
-      "id": "41AC1BFD-24B5-4C79-849C-1F2D44A4F9D1"
+      "class": "group",
+      "id": "897D6761-69E2-4E1B-9EBC-619611E9B4FE"
     }
   ],
-  "name": "5-首页",
-  "nameIsFixed": true,
+  "name": "-Conditions-",
+  "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 0
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "com.abynim.userflows.conditionalArtboard": 1,
+      "hasElse": 0
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }

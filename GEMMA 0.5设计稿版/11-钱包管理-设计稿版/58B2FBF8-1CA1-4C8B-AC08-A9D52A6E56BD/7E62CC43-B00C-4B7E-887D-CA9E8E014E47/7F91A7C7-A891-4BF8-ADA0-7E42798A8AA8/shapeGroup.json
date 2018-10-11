@@ -44,26 +44,24 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "DFF4B5D9-1AD6-447B-8866-4A8F2E343967",
-    "endMarkerType": 0,
-    "fills": [
+    "borders": [
       {
-        "_class": "fill",
+        "_class": "border",
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8313725490196078,
-          "green": 0.4196078431372549,
+          "blue": 0.8313725490196079,
+          "green": 0.419607843137255,
           "red": 0.2588235294117647
         },
         "fillType": 0,
         "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
+        "position": 0,
+        "thickness": 1
       }
     ],
+    "do_objectID": "DFF4B5D9-1AD6-447B-8866-4A8F2E343967",
+    "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1

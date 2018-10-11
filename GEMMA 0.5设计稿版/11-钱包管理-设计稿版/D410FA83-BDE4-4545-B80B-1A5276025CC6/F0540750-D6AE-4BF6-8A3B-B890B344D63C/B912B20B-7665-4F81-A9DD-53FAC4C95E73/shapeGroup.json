@@ -44,11 +44,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "71DAF7DA-18E7-43B3-B9C8-27D847D4AC7A",
-    "endMarkerType": 0,
-    "fills": [
+    "borders": [
       {
-        "_class": "fill",
+        "_class": "border",
         "color": {
           "_class": "color",
           "alpha": 1,
@@ -58,12 +56,12 @@
         },
         "fillType": 0,
         "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
+        "position": 1,
+        "thickness": 1
       }
     ],
+    "do_objectID": "71DAF7DA-18E7-43B3-B9C8-27D847D4AC7A",
+    "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1

@@ -30,12 +30,14 @@
     "y": -334
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "do_objectID": "C200C5CF-DC18-441B-AC29-64BEAAD78D22",
     "guides": [
+      355,
+      20
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -46,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -59,10 +61,6 @@
     {
       "class": "group",
       "id": "865CD1E3-C663-4B3F-A35B-8B4112DC0982"
-    },
-    {
-      "class": "group",
-      "id": "6C651805-45CD-4FA2-B304-7C513A21B567"
     },
     {
       "class": "group",

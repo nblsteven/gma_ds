@@ -35,8 +35,8 @@
     "do_objectID": "E58EC56D-9ACE-4443-8768-DADEC21B5CD9",
     "height": 812,
     "width": 375,
-    "x": -702,
-    "y": -414
+    "x": -1200,
+    "y": -990
   },
   "grid": {
     "_class": "simpleGrid",
@@ -66,7 +66,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -77,24 +77,20 @@
       "id": "19E14B5A-C6AB-4A11-B6DD-399375F49E66"
     },
     {
-      "class": "group",
-      "id": "4557FC87-4410-4D95-B5AD-2552410A4FD6"
-    },
-    {
-      "class": "group",
-      "id": "1D4FDAF7-98A9-41C8-9B48-535172CADB56"
-    },
-    {
       "class": "text",
-      "id": "ED1907CA-1005-4CA0-8970-017F1DAEEC76"
-    },
-    {
-      "class": "text",
-      "id": "F446857C-CBF1-4F9D-869D-A4895E3AF3B1"
+      "id": "19E591D1-3AB6-4CD8-BFBB-3968D2991A93"
     },
     {
       "class": "group",
       "id": "1924237D-6850-47A6-A5FA-4181128AEBF9"
+    },
+    {
+      "class": "text",
+      "id": "1D140EEF-7A26-435F-99F2-FB2B108B701C"
+    },
+    {
+      "class": "text",
+      "id": "A612FAF4-4769-4151-9D0E-310937199324"
     },
     {
       "class": "group",
@@ -128,7 +124,6 @@
     "base": 0,
     "do_objectID": "F11C5AFC-AAA5-4997-881F-6074F893234A",
     "guides": [
-      142
     ]
   }
 }

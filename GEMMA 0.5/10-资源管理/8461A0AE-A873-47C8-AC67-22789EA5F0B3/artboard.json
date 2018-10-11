@@ -52,10 +52,6 @@
     "base": 0,
     "do_objectID": "2FEEFFCE-FC8D-48A3-9A96-333401B766C3",
     "guides": [
-      20,
-      355,
-      340,
-      35
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -66,7 +62,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -77,8 +73,8 @@
       "id": "9058174E-FDE8-493E-BB26-84B0E3403339"
     },
     {
-      "class": "group",
-      "id": "0668EB89-CF66-49ED-9403-CF40F759A74A"
+      "class": "text",
+      "id": "6F7BB966-4401-4B25-96A8-61C5A91F8F8C"
     },
     {
       "class": "group",
@@ -86,22 +82,54 @@
     },
     {
       "class": "text",
-      "id": "760F861F-E888-41C1-BD0A-702E2A16079A"
+      "id": "79F8ABAE-D650-4623-8B51-9D8C2FB2748D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C44BECCF-280D-4A78-81CE-5FA9848E1777"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "772348C9-85D5-4F94-9953-A7AF3B00CDE2"
     },
     {
       "class": "text",
-      "id": "FA43813D-1AD7-4588-B632-EB5E188235F0"
+      "id": "1CC96489-0F25-46BE-A5C3-7BA1425F62E8"
+    },
+    {
+      "class": "text",
+      "id": "1F4EF045-ADE4-4B53-8129-776A03DB7857"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EF61B67A-1658-4D1C-AD0E-72637B3DC8C7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AB8A230E-3755-4C41-9D08-B43122213904"
     },
     {
       "class": "group",
-      "id": "D2CC912E-EBCE-4D7A-8B61-E497002C2207"
+      "id": "3862F19F-EDEF-40F9-BACE-6B04F92A4104"
+    },
+    {
+      "class": "text",
+      "id": "A4E09DE3-F384-430D-AA56-C7D90A02F47B"
+    },
+    {
+      "class": "text",
+      "id": "6B7E622A-3646-48AC-86BA-980BF80DCAEF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AFFA3171-3609-4BBE-81FF-A960DB70DBAE"
     },
     {
       "class": "group",
-      "id": "798B08C6-04CA-46AE-94C3-622FA61E573C"
+      "id": "F302DCC1-5612-44AC-9990-9205D6009E55"
     }
   ],
-  "name": "10-抵押 默认状态",
+  "name": "10-资源详情 默认状态",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -128,7 +156,6 @@
     "base": 0,
     "do_objectID": "D762C49F-6A11-4AC6-B46D-47E7AE85DDAB",
     "guides": [
-      142
     ]
   }
 }

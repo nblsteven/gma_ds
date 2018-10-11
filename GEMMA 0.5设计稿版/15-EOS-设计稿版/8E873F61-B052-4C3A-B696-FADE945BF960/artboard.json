@@ -24,18 +24,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "7DCDD7BF-AF99-41CD-99ED-5F945DA465E8",
-    "height": 812,
+    "height": 667,
     "width": 375,
     "x": 287,
     "y": -334
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "do_objectID": "ADF51914-B153-407E-A64C-5F17A26DDD13",
     "guides": [
+      355
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -46,7 +47,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -67,13 +68,9 @@
     {
       "class": "group",
       "id": "64C03A0B-85B2-4B48-8F7E-540001966D14"
-    },
-    {
-      "class": "group",
-      "id": "7BE93985-0D00-4E6A-ABF6-B85311A02D9A"
     }
   ],
-  "name": "16-ETH首页",
+  "name": "15-EOS首页",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -100,6 +97,8 @@
     "base": 0,
     "do_objectID": "F63EDBE7-0F6A-4F8B-BDAA-C1E0E2B40F35",
     "guides": [
+      461,
+      501
     ]
   }
 }

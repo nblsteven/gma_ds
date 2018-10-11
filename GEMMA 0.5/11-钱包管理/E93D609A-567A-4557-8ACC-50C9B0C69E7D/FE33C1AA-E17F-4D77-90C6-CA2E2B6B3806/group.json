@@ -1,10 +1,9 @@
 {
   "_class": "group",
-  "booleanOperation": 0,
-  "do_objectID": "7AC841CA-F20A-4942-9992-47F9AFCCD0C7",
+  "booleanOperation": -1,
+  "do_objectID": "FE33C1AA-E17F-4D77-90C6-CA2E2B6B3806",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F644A9C5-6D2A-46E7-8803-0EA909EB7BB6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -12,19 +11,13 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "flow": {
-    "_class": "MSImmutableFlowConnection",
-    "animationType": 2,
-    "destinationArtboardID": "E93D609A-567A-4557-8ACC-50C9B0C69E7D"
-  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0B15C275-D191-475E-BA8C-245C9140D2F0",
-    "height": 44,
-    "width": 343,
+    "height": 61,
+    "width": 248,
     "x": 16,
-    "y": 216
+    "y": 71
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -32,29 +25,33 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "9B6A3AD7-E101-4AAD-B5B8-6C0F461B685D"
+      "id": "506882EE-AEF6-4CE7-8EF3-00BD4F54DF69"
     },
     {
       "class": "text",
-      "id": "DDBAB2F3-AEBC-4E1A-843C-A26DFB2D59EB"
+      "id": "43B30EA0-C2EE-4602-A5E6-262F4AAA7591"
     }
   ],
-  "name": "button copy",
-  "nameIsFixed": true,
+  "name": "Condition 2",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "2163DE57-0122-4CFE-9E74-58BC63A02F5E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "isConditionGroup": 1
+    }
   }
 }

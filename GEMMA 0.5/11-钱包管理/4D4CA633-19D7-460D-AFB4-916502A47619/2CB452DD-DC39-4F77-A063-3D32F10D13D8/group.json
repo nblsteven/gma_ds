@@ -1,10 +1,10 @@
 {
   "_class": "group",
-  "booleanOperation": 0,
-  "do_objectID": "7AC841CA-F20A-4942-9992-47F9AFCCD0C7",
+  "booleanOperation": -1,
+  "do_objectID": "2CB452DD-DC39-4F77-A063-3D32F10D13D8",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F644A9C5-6D2A-46E7-8803-0EA909EB7BB6",
+    "do_objectID": "0AF780F6-3D0D-4B21-9D6C-2088080D33D1",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,16 +15,16 @@
   "flow": {
     "_class": "MSImmutableFlowConnection",
     "animationType": 2,
-    "destinationArtboardID": "E93D609A-567A-4557-8ACC-50C9B0C69E7D"
+    "destinationArtboardID": "FBE4F167-2ADA-4899-82C6-573631990644"
   },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0B15C275-D191-475E-BA8C-245C9140D2F0",
-    "height": 44,
-    "width": 343,
+    "do_objectID": "1F6F44BB-FCD3-4EA3-866A-9F6E8B7E0E6B",
+    "height": 39,
+    "width": 248,
     "x": 16,
-    "y": 216
+    "y": 16
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -32,29 +32,34 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "9B6A3AD7-E101-4AAD-B5B8-6C0F461B685D"
+      "id": "3883EF47-9ED8-4481-B57D-9EA4FB80AB55"
     },
     {
       "class": "text",
-      "id": "DDBAB2F3-AEBC-4E1A-843C-A26DFB2D59EB"
+      "id": "E163185A-0E3A-4C07-83DE-C4BECFFAA3B5"
     }
   ],
-  "name": "button copy",
-  "nameIsFixed": true,
+  "name": "Condition 1",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "2163DE57-0122-4CFE-9E74-58BC63A02F5E",
+    "do_objectID": "4EFCC57E-459F-401F-828D-AB6119A82321",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "isConditionGroup": 1
+    }
   }
 }

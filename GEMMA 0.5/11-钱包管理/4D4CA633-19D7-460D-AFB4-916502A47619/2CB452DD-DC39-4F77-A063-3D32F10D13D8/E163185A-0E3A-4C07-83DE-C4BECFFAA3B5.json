@@ -9,37 +9,36 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.7411764705882353,
-            "green": 0.6392156862745098,
-            "red": 0.6196078431372549
+            "blue": 0.1254901960784314,
+            "green": 0.611764705882353,
+            "red": 0.9568627450980393
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PingFangSC-Regular",
-              "size": 14
+              "size": 16
             }
           },
-          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "maximumLineHeight": 22.4,
+            "minimumLineHeight": 22.4
           }
         },
-        "length": 35,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "一旦格式化，WOOKONG Bio将清除\n私钥，请在格式化前转移资产。"
+    "string": "1. 若有指纹，先验证指纹"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
-  "do_objectID": "0305D154-FEF5-4148-A9BC-7035316BF882",
-  "dontSynchroniseWithSymbol": true,
+  "booleanOperation": -1,
+  "do_objectID": "E163185A-0E3A-4C07-83DE-C4BECFFAA3B5",
+  "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D054C849-134B-46ED-9412-C169B018020E",
+    "do_objectID": "6B50A272-466E-4043-B332-0E81B465A579",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,61 +49,64 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "44DE0761-C209-4C57-A3EA-C306196C081E",
-    "height": 40,
-    "width": 228,
-    "x": 29.5,
-    "y": 108.5
+    "do_objectID": "F0A8038E-03EF-4453-ADBD-7753E23CDB46",
+    "height": 22.4,
+    "width": 232,
+    "x": 8,
+    "y": 8
   },
-  "glyphBounds": "{{0, 3}, {227, 35}}",
+  "glyphBounds": "{{0, 4}, {176, 16}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 0,
-  "name": "一旦格式化，WOOKONG Bio将清除",
+  "lineSpacingBehaviour": 2,
+  "name": "1. 若有指纹，先验证指纹",
   "nameIsFixed": false,
-  "originalObjectID": "A4298522-3771-4648-B780-6B3E1A72F0A8",
-  "resizingConstraint": 2,
-  "resizingType": 2,
+  "resizingConstraint": 63,
+  "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "6E60E2BF-D7BF-4DD9-8E2F-56AA72584EA8",
+    "do_objectID": "8B3E714B-B790-4234-B0CA-98680093F7D6",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "AEF7E2B3-3089-4D5C-9779-B9C7F5669FAE",
+      "do_objectID": "9542D333-EAC6-43EB-80FF-F09D86FEA3C4",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7411764705882353,
-          "green": 0.6392156862745098,
-          "red": 0.6196078431372549
+          "blue": 0.1254901960784314,
+          "green": 0.611764705882353,
+          "red": 0.9568627450980393
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PingFangSC-Regular",
-            "size": 14
+            "size": 16
           }
         },
-        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "maximumLineHeight": 22.4,
+          "minimumLineHeight": 22.4
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "isCondition": 1
+    }
+  }
 }

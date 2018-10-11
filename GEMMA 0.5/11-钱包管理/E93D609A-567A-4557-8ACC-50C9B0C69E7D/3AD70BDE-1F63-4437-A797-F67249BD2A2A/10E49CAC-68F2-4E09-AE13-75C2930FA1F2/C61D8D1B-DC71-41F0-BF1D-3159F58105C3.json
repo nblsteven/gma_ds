@@ -1,8 +1,8 @@
 {
-  "_class": "shapePath",
+  "_class": "rectangle",
   "booleanOperation": -1,
-  "do_objectID": "F99DD7E1-8D50-4331-91A5-38AD39EE1F23",
-  "edited": true,
+  "do_objectID": "C61D8D1B-DC71-41F0-BF1D-3159F58105C3",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,15 +12,17 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fixedRadius": 5,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1014,
-    "width": 116,
+    "height": 39,
+    "width": 248,
     "x": 0,
     "y": 0
   },
-  "isClosed": false,
+  "hasConvertedToNewRoundCorners": true,
+  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -33,22 +35,42 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{-0.37931034482758619, 0}",
-      "curveMode": 4,
+      "cornerRadius": 5,
+      "curveFrom": "{0, 0}",
+      "curveMode": 1,
+      "curveTo": "{0, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 5,
+      "curveFrom": "{1, 0}",
+      "curveMode": 1,
       "curveTo": "{1, 0}",
-      "hasCurveFrom": true,
+      "hasCurveFrom": false,
       "hasCurveTo": false,
       "point": "{1, 0}"
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0, 1}",
-      "curveMode": 4,
-      "curveTo": "{1.3793103448275863, 1}",
+      "cornerRadius": 5,
+      "curveFrom": "{1, 1}",
+      "curveMode": 1,
+      "curveTo": "{1, 1}",
       "hasCurveFrom": false,
-      "hasCurveTo": true,
+      "hasCurveTo": false,
+      "point": "{1, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 5,
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
       "point": "{0, 1}"
     }
   ],

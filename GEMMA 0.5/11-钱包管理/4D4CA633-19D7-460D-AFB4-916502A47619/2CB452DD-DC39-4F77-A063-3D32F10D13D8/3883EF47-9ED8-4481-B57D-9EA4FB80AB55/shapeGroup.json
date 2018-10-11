@@ -2,9 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E22D1A39-505F-4819-B791-EB4A8D6C5B46",
+  "do_objectID": "3883EF47-9ED8-4481-B57D-9EA4FB80AB55",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "326D07DE-3694-46A4-A13D-E60D892399E7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1014,
-    "width": 116,
+    "do_objectID": "96157CFD-3A40-4A62-AFB9-724149FC64AB",
+    "height": 39,
+    "width": 248,
     "x": 0,
-    "y": 60.5
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -30,11 +32,11 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "F99DD7E1-8D50-4331-91A5-38AD39EE1F23"
+      "class": "rectangle",
+      "id": "F87B9F3D-DFAC-4FC0-8D14-094F23199F4B"
     }
   ],
-  "name": "Flow arrow",
+  "name": "Rectangle",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -48,19 +50,37 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 0.4784313725490197,
-          "red": 0
+          "blue": 0.1254901960784314,
+          "green": 0.611764705882353,
+          "red": 0.9568627450980393
         },
         "fillType": 0,
         "isEnabled": true,
-        "position": 1,
-        "thickness": 1
+        "position": 2,
+        "thickness": 2
       }
     ],
+    "do_objectID": "61F25F91-1D74-445E-B888-95330FDC829F",
     "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9764705882352941,
+          "green": 0.9764705882352941,
+          "red": 0.9764705882352941
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
     "miterLimit": 10,
-    "sharedObjectID": "F73FD068-39BC-4763-9966-7E68A0416685",
     "startMarkerType": 0,
     "windingRule": 1
   },

@@ -24,13 +24,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "E4A57082-C643-4950-9CB9-A32D4947FE26",
-    "height": 812,
+    "height": 667,
     "width": 375,
     "x": -1851,
     "y": -406
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -65,12 +65,16 @@
       "id": "50DA056F-EA08-4870-B5C6-92C949979C65"
     },
     {
-      "class": "group",
-      "id": "F0C64885-60BA-4934-91D3-BDAE5E304EFE"
+      "class": "text",
+      "id": "2B4249F9-4B00-490D-A43E-5D95D556F54F"
     },
     {
       "class": "group",
-      "id": "8EC8BC4D-B2EC-41EB-8ADF-E71AF7AD5B92"
+      "id": "7CE32828-83BA-4B20-AC07-619FC45BDC3D"
+    },
+    {
+      "class": "group",
+      "id": "A650E989-9844-4B72-B4B5-69FE87C8115D"
     }
   ],
   "name": "10-抵押 默认状态",

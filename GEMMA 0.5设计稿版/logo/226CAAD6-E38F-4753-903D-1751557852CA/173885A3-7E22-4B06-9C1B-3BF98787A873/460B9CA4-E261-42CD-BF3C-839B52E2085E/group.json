@@ -1,10 +1,10 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": 0,
-  "do_objectID": "180EB1B5-3AC7-4132-9DBF-5862E54A8673",
+  "do_objectID": "460B9CA4-E261-42CD-BF3C-839B52E2085E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "85E2756E-4752-4292-A279-60D01DA860CF",
+    "do_objectID": "EF1052CB-575F-4CB0-B9BB-367275E13D82",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,36 +15,41 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A32F967F-61F1-4C92-BD5F-6BC556AAFF53",
-    "height": 140,
-    "width": 140,
-    "x": 118,
-    "y": 155
+    "do_objectID": "9151A0C4-0BA7-45E0-A220-125C05E4EC04",
+    "height": 51,
+    "width": 51,
+    "x": 69,
+    "y": 69.76600000000008
   },
-  "horizontalSpacing": 0,
+  "hasClickThrough": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "logo_start page_140*140",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6FDB1977-8AA8-4A19-9F00-BF39A0C3D3A7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "06C353AC-4C48-49A9-A210-928AB6BAF234"
+    }
   ],
+  "name": "Group 18",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4C355F2D-B106-4FB9-AC35-6B1DCC81BFBF",
+    "do_objectID": "F05743B6-7899-43A8-B468-DBC5F778001C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "47906ABC-FE38-42FB-B6EB-256919CC42D8",
-  "verticalSpacing": 0
+  }
 }

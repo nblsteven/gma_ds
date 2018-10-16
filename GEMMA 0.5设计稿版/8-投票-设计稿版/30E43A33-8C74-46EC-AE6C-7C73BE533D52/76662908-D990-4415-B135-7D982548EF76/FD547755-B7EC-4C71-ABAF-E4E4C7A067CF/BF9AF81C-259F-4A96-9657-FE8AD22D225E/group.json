@@ -16,10 +16,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "D982E509-1610-451C-8B32-EF2AF29455DA",
-    "height": 20,
-    "width": 20,
-    "x": 15,
-    "y": 27
+    "height": 24,
+    "width": 24,
+    "x": 13,
+    "y": 25
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -27,14 +27,18 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "slice",
+      "id": "66FAA5F8-367E-4358-90E7-03964F52FC06"
+    },
     {
       "class": "shapeGroup",
       "id": "D6209233-939E-46C8-A72D-474EB5F5336C"
     }
   ],
-  "name": "unselected",
+  "name": "ic_unselected",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

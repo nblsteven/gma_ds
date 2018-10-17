@@ -31,46 +31,17 @@
         },
         "length": 3,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.403921568627451,
-            "green": 0.172549019607843,
-            "red": 0.1294117647058823
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "PingFangSC-Regular",
-              "size": 12
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 1,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 12,
-            "minimumLineHeight": 12
-          }
-        },
-        "length": 1,
-        "location": 3
       }
     ],
-    "string": "未连接 "
+    "string": "未连接"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "66B6930A-B9F9-4D0D-A315-D58A55577AE4",
+  "do_objectID": "D3883AAB-A194-4E68-BE3E-BD972395F670",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3BEF1347-3923-427A-94EC-390F24518B15",
+    "do_objectID": "866576F1-F41F-4782-9EA4-C8001C183731",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -81,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "49356CE3-DF58-45E7-92A8-6F00BE9DBA6D",
+    "do_objectID": "48702CE9-A1DA-4C1D-83B0-96D69ECB41CA",
     "height": 12,
-    "width": 40,
-    "x": 281,
+    "width": 36,
+    "x": 271,
     "y": 2
   },
-  "glyphBounds": "{{4, 0}, {36, 12}}",
+  "glyphBounds": "{{0, 0}, {36, 12}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -103,13 +74,14 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "FD7769C0-476F-4D21-A3CF-6DBF8BFFB5FC",
+    "do_objectID": "285E9084-FF92-43A6-B2D4-A2A138FC324C",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "EC25AE94-1AE5-4188-B5BA-96376E44E95A",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "D0F1FE46-E4F1-4CC8-B83C-12FA37993021",
+      "do_objectID": "DA488C8A-37D1-445A-ACFD-43CA45BA2A01",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -138,7 +110,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

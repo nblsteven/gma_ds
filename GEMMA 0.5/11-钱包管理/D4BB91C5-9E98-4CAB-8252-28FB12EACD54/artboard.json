@@ -30,7 +30,7 @@
     "y": 2072
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -75,6 +75,18 @@
     {
       "class": "group",
       "id": "E134ABC8-4592-4482-86A5-A9FDE1723A17"
+    },
+    {
+      "class": "text",
+      "id": "96A79167-5ACB-405A-AFB4-657EA1E65E53"
+    },
+    {
+      "class": "group",
+      "id": "08337927-11ED-4D31-9E1D-837A635EAF5C"
+    },
+    {
+      "class": "group",
+      "id": "E4D305A4-0177-4A72-BA2B-2D9D47D28B16"
     }
   ],
   "name": "11-钱包详情-wookong-已连接",

@@ -19,7 +19,7 @@
     "do_objectID": "781263D8-DBFB-412E-9996-E5B48CD28734",
     "height": 0.5,
     "width": 335,
-    "x": 0,
+    "x": 257,
     "y": 56
   },
   "hasClickThrough": false,
@@ -51,10 +51,10 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.8,
-          "blue": 0.9333333333333333,
-          "green": 0.8941176470588235,
-          "red": 0.8784313725490196
+          "alpha": 1,
+          "blue": 0.8666666666666667,
+          "green": 0.8666666666666667,
+          "red": 0.8666666666666667
         },
         "fillType": 0,
         "isEnabled": true,
@@ -65,28 +65,6 @@
       }
     ],
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 0,
-        "color": {
-          "_class": "color",
-          "alpha": 0.8,
-          "blue": 0.9254901960784314,
-          "green": 0.8431372549019608,
-          "red": 0.8117647058823529
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": false,
-        "offsetX": 0,
-        "offsetY": 1,
-        "spread": 0
-      }
-    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

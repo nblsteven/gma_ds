@@ -36,7 +36,7 @@
       "id": "65DB7B7D-0F5A-409A-B856-10CB8EDA20F5"
     }
   ],
-  "name": "ic_point_red",
+  "name": "ic_point_orange",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -44,22 +44,6 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 0,
-        "thickness": 1
-      }
-    ],
     "do_objectID": "C5788F88-454D-44B6-8E3A-2B8DA30007E8",
     "endMarkerType": 0,
     "fills": [
@@ -68,9 +52,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1215686274509805,
-          "green": 0.03529411764705879,
-          "red": 0.8235294117647058
+          "blue": 0,
+          "green": 0.3333333333333333,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,

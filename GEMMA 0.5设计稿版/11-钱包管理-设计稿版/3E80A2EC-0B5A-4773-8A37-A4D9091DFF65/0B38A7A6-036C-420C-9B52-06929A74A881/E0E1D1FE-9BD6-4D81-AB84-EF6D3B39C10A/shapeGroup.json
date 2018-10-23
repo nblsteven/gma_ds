@@ -44,22 +44,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.8196078431372549,
-          "green": 0.4117647058823528,
-          "red": 0.2549019607843137
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 1,
-        "thickness": 1
-      }
-    ],
     "do_objectID": "0E967C09-78A1-4B9C-A1EA-819796A42DB1",
     "endMarkerType": 0,
     "fills": [
@@ -68,9 +52,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8196078431372549,
-          "green": 0.4117647058823528,
-          "red": 0.2549019607843137
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
         },
         "fillType": 0,
         "isEnabled": true,

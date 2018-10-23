@@ -24,13 +24,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "481E5019-34BE-48F9-8128-8EC745881131",
-    "height": 142,
+    "height": 194,
     "width": 300,
     "x": 674,
     "y": 2072
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -55,6 +55,10 @@
     {
       "class": "group",
       "id": "5760873C-3DA4-4A97-92C5-210C8B2D7153"
+    },
+    {
+      "class": "group",
+      "id": "09824EA4-853A-4724-A3A8-3BA4F2821C1D"
     }
   ],
   "name": "状态",

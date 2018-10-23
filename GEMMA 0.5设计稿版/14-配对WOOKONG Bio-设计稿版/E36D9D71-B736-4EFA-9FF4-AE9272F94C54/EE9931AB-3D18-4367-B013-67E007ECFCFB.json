@@ -9,21 +9,21 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4039215686,
-            "green": 0.1725490196,
-            "red": 0.1294117647
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "PingFangSC-Regular",
+              "name": "PingFangSC-Semibold",
               "size": 16
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 16,
             "minimumLineHeight": 16
@@ -55,10 +55,10 @@
     "do_objectID": "2F57E9F8-B2D4-41BA-96E8-CD5E2F0F2360",
     "height": 16,
     "width": 335,
-    "x": 19,
+    "x": 20,
     "y": 93
   },
-  "glyphBounds": "{{0, 0}, {256, 16}}",
+  "glyphBounds": "{{39, 0}, {257, 16}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -77,30 +77,29 @@
     "do_objectID": "555F06FF-817A-452D-AD57-0B0FDA587808",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "675B454E-08B6-4C04-92A4-F4C98EA1A60B",
+    "sharedObjectID": "CA097EBC-C8DD-4594-A2ED-DA63E3C09999",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "B9AFBC28-4614-4249-9761-B4460D158A7C",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4039215686,
-          "green": 0.1725490196,
-          "red": 0.1294117647
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "PingFangSC-Regular",
+            "name": "PingFangSC-Semibold",
             "size": 16
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 16,
           "minimumLineHeight": 16

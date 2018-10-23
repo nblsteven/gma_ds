@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.407843137254902,
-            "green": 0.1725490196078432,
-            "red": 0.1294117647058823
+            "blue": 0.4,
+            "green": 0.4,
+            "red": 0.4
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -38,14 +38,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.407843137254902,
-            "green": 0.1725490196078432,
-            "red": 0.1294117647058823
+            "blue": 0.4,
+            "green": 0.4,
+            "red": 0.4
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "PingFangSC-Regular",
+              "name": "PingFangSC-Semibold",
               "size": 18
             }
           },
@@ -58,11 +58,11 @@
             "minimumLineHeight": 14
           }
         },
-        "length": 11,
+        "length": 10,
         "location": 4
       }
     ],
-    "string": "≈ ¥ 120,000.000"
+    "string": "≈ ¥ 120,000.00"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -83,11 +83,11 @@
     "constrainProportions": false,
     "do_objectID": "9EAAEDFF-F4EC-4EBE-93FE-93A08BFA71CA",
     "height": 14,
-    "width": 132,
+    "width": 122,
     "x": 0,
     "y": 68
   },
-  "glyphBounds": "{{1, -1}, {130, 17}}",
+  "glyphBounds": "{{1, -1}, {120, 18}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -95,7 +95,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "≈ ¥ 120,000.000",
+  "name": "≈ ¥ 120,000.00",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -114,9 +114,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.407843137254902,
-          "green": 0.1725490196078432,
-          "red": 0.1294117647058823
+          "blue": 0.4,
+          "green": 0.4,
+          "red": 0.4
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

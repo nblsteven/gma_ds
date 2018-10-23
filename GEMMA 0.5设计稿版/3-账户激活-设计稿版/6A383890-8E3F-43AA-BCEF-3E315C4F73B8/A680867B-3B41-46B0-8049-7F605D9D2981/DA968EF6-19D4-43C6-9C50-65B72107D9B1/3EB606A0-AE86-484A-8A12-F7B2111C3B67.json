@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.7411764705882353,
-            "green": 0.6392156862745098,
-            "red": 0.6196078431372549
+            "blue": 0.4,
+            "green": 0.4,
+            "red": 0.4
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -24,7 +24,9 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
           }
         },
         "length": 22,
@@ -51,19 +53,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "38F087A9-1579-4D82-ACE6-931198D8C109",
-    "height": 40,
+    "height": 44,
     "width": 213,
     "x": 29.5,
-    "y": 108.5
+    "y": 107.5
   },
-  "glyphBounds": "{{0, 3}, {213, 34}}",
+  "glyphBounds": "{{0, 4}, {213, 36}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 0,
+  "lineSpacingBehaviour": 2,
   "name": "若你已支付，费用将在24小时内退 回到微",
   "nameIsFixed": false,
   "originalObjectID": "A4298522-3771-4648-B780-6B3E1A72F0A8",
@@ -76,17 +78,17 @@
     "do_objectID": "00DE3545-A788-480E-A318-33EBF1F5F54C",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "7A95981B-FDDF-4B2D-B1A9-0BB2A0E32D23",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "6729F6E8-F01B-4A3D-AFAA-FAA814F8BAF7",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7411764705882353,
-          "green": 0.6392156862745098,
-          "red": 0.6196078431372549
+          "blue": 0.4,
+          "green": 0.4,
+          "red": 0.4
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -99,7 +101,9 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
         }
       },
       "verticalAlignment": 0

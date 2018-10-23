@@ -50,7 +50,7 @@
       "do_objectID": "FF1920CB-013D-47D5-A7FC-65603609C5C6",
       "isEnabled": true,
       "motionAngle": 0,
-      "radius": 5.580357142857143,
+      "radius": 4,
       "type": 3
     },
     "borders": [
@@ -58,10 +58,10 @@
         "_class": "border",
         "color": {
           "_class": "color",
-          "alpha": 0.8,
-          "blue": 0.8901960784313725,
+          "alpha": 1,
+          "blue": 0.8666666666666667,
           "green": 0.8666666666666667,
-          "red": 0.8627450980392157
+          "red": 0.8666666666666667
         },
         "fillType": 0,
         "isEnabled": true,
@@ -71,47 +71,7 @@
     ],
     "do_objectID": "9182932A-DF74-4EDE-98DC-04F25BE19136",
     "endMarkerType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 0,
-        "patternTileScale": 1
-      }
-    ],
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 14,
-        "color": {
-          "_class": "color",
-          "alpha": 0.04823369565217391,
-          "blue": 0.4901960784313725,
-          "green": 0.2039215686274509,
-          "red": 0.1529411764705882
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": false,
-        "offsetX": 0,
-        "offsetY": 2,
-        "spread": 0
-      }
-    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

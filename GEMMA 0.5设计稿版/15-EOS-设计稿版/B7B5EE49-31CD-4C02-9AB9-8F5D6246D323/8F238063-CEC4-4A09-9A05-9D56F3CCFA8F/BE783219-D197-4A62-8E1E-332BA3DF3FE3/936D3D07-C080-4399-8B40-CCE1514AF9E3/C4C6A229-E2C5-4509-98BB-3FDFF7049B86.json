@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.6235294117647059,
-            "green": 0.4823529411764707,
-            "red": 0.4588235294117647
+            "blue": 0.4,
+            "green": 0.4,
+            "red": 0.4
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -25,15 +25,15 @@
             "_class": "paragraphStyle",
             "alignment": 1,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 14,
-            "minimumLineHeight": 14
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
           }
         },
-        "length": 8,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "≈ 0.0000"
+    "string": "≈ 0.00"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "8F7D71BF-5EE6-4AE0-853C-3537C6AD8E20",
-    "height": 14,
-    "width": 62,
-    "x": 3,
-    "y": 31
+    "height": 16,
+    "width": 45,
+    "x": 20,
+    "y": 30
   },
-  "glyphBounds": "{{1, 1}, {60, 12}}",
+  "glyphBounds": "{{1, 2}, {43, 12}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "≈ 0.0000",
+  "name": "≈ 0.00",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -77,17 +77,17 @@
     "do_objectID": "E826153A-D1A8-44E4-A74F-06D7BE980356",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "34FD0A74-3058-4161-B3A3-AB1845054D31",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "210AD63B-FCD3-470A-BF46-E35EF0ADFB8D",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6235294117647059,
-          "green": 0.4823529411764707,
-          "red": 0.4588235294117647
+          "blue": 0.4,
+          "green": 0.4,
+          "red": 0.4
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -101,8 +101,8 @@
           "_class": "paragraphStyle",
           "alignment": 1,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 14,
-          "minimumLineHeight": 14
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
         }
       },
       "verticalAlignment": 0

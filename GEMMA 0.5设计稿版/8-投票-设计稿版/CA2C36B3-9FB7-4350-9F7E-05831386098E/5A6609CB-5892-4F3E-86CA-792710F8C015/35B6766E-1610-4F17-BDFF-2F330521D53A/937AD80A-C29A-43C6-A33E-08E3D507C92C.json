@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8313725490196078,
-            "green": 0.4196078431372549,
-            "red": 0.2588235294117647
+            "blue": 0.4,
+            "green": 0.4,
+            "red": 0.4
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -25,41 +25,12 @@
             "_class": "paragraphStyle",
             "alignment": 1,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 14,
-            "minimumLineHeight": 14
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
           }
         },
-        "length": 5,
+        "length": 7,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.8313725490196078,
-            "green": 0.4196078431372549,
-            "red": 0.2588235294117647
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "PingFangSC-Semibold",
-              "size": 14
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 1,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 14,
-            "minimumLineHeight": 14
-          }
-        },
-        "length": 2,
-        "location": 5
       }
     ],
     "string": "0.24%  "
@@ -82,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "D43117D0-6E2C-43BA-B9FE-229B4FF66501",
-    "height": 14,
+    "height": 16,
     "width": 52,
     "x": 274,
-    "y": 4
+    "y": 3
   },
-  "glyphBounds": "{{10, 1}, {41, 12}}",
+  "glyphBounds": "{{10, 2}, {41, 12}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -106,17 +77,17 @@
     "do_objectID": "01C6DB53-ADD5-456D-B9DF-E2E9FD5531F1",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "34FD0A74-3058-4161-B3A3-AB1845054D31",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "E5BBF96D-99BF-4684-8CE3-263118FFB730",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8313725490196078,
-          "green": 0.4196078431372549,
-          "red": 0.2588235294117647
+          "blue": 0.4,
+          "green": 0.4,
+          "red": 0.4
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -130,8 +101,8 @@
           "_class": "paragraphStyle",
           "alignment": 1,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 14,
-          "minimumLineHeight": 14
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
         }
       },
       "verticalAlignment": 0

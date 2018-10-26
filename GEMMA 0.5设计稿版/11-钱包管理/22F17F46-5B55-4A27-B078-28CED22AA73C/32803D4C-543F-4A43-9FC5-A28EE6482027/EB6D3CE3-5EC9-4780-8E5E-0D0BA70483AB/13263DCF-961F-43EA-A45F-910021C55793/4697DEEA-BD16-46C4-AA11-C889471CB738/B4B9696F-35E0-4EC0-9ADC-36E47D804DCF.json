@@ -1,6 +1,7 @@
 {
   "_class": "shapePath",
   "booleanOperation": 1,
+  "clippingMaskMode": 0,
   "do_objectID": "B4B9696F-35E0-4EC0-9ADC-36E47D804DCF",
   "edited": true,
   "exportOptions": {
@@ -22,13 +23,14 @@
     "x": 8.840900125889311,
     "y": 8.758057413414777
   },
+  "hasClippingMask": false,
   "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "name": "Combined Shape",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
@@ -97,5 +99,47 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "9C2F93B0-1AED-45F7-AA52-B1E4DFEEEA17",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.151,
+      "saturation": 1,
+      "type": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "5F1F35BA-BB0B-4E69-9290-B09D631B4E03",
+      "opacity": 0.9700000286102295
+    },
+    "do_objectID": "E9CCF9A5-1D8C-4C81-B241-4BF3237035A0",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8,
+          "green": 0.8,
+          "red": 0.8
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
 }

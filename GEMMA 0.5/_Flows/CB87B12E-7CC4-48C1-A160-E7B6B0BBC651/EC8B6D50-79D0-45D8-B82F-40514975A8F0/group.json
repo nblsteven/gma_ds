@@ -1,6 +1,7 @@
 {
   "_class": "group",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "EC8B6D50-79D0-45D8-B82F-40514975A8F0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -20,6 +21,7 @@
     "y": 223.8
   },
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -28,19 +30,19 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "95D30468-E962-4EA8-AAB4-FABDABEB2173"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "9C9129D5-A926-4A86-A26E-E2BA11581C5B"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "2ED3E055-39E7-445E-BA21-CC4FC476250E"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "87B55443-36D7-4438-B3DC-B227E4CE45F5"
     },
     {
@@ -52,43 +54,43 @@
       "id": "D018C93D-DBC8-41C9-95A6-316C4C2DA712"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "5CBF50EF-2500-4D6B-A419-292CD5E302FD"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "55AF5A04-23CD-4DBD-B266-D7B1B4DD5F99"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "C864613C-93B3-4B0B-8846-EE29D4B99074"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "1EC2ABC7-8EBD-4DC6-AC1D-9155E5EFFD90"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "504983E9-EC6E-4F9C-BBFC-BC5947D42467"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "3427C088-FDD0-4474-BBFA-11E9136060DE"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "8E07DDF9-63BF-4CAD-9CB7-ED25D75F056A"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "C5AFD186-AE1F-4007-9140-5197DBD78EA4"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "CB884554-A69A-4DD3-B752-A495E5DEFABD"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "4329ACB0-F669-474E-AC8C-EBF70E919FED"
     },
     {
@@ -100,7 +102,7 @@
       "id": "171A3FE4-293A-429B-B6F3-0D534265FF5C"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "4C8E43B9-8DE2-4673-8752-755C22B1C4B8"
     }
   ],

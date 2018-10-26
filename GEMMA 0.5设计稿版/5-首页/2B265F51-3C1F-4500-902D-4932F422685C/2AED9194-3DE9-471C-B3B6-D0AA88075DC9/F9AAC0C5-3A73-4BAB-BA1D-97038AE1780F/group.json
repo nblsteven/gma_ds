@@ -1,6 +1,7 @@
 {
   "_class": "group",
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "F9AAC0C5-3A73-4BAB-BA1D-97038AE1780F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -12,6 +13,11 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "EB8E25E9-589F-4C34-93C5-0F081FDD6647"
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -22,6 +28,7 @@
     "y": 10
   },
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,

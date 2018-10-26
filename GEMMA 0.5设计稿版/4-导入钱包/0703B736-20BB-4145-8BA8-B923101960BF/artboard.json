@@ -9,6 +9,7 @@
     "red": 0.9764705882352941
   },
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "0703B736-20BB-4145-8BA8-B923101960BF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -47,6 +48,7 @@
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -63,14 +65,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",
       "id": "6361C206-4277-4BCE-8E21-1287F8E01EB6"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "70F84949-896B-4586-8D59-AF88978E1924"
     },
     {
@@ -82,7 +84,7 @@
       "id": "7D117A88-3FB3-4536-96E2-676906EF0B5E"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "04DEF058-B326-48F8-8943-195CF8F6FAAD"
     },
     {

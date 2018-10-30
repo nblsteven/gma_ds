@@ -34,7 +34,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "artboard",
@@ -107,6 +107,10 @@
     {
       "class": "artboard",
       "id": "3A944028-F83C-4621-B14C-CC3A8C1002E1"
+    },
+    {
+      "class": "group",
+      "id": "FE872090-D375-411B-80C6-640639DACF6D"
     }
   ],
   "name": "5-首页",
@@ -121,6 +125,13 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "homeScreenID": "A141A86C-3040-407C-BBD5-FB7E7C8BD200",
+      "lastUsedFlowDescription": "",
+      "lastUsedFlowTitle": "概览-首页"
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

@@ -34,7 +34,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "artboard",
@@ -103,6 +103,10 @@
     {
       "class": "artboard",
       "id": "F909F472-F419-4418-89D7-684326C66D4F"
+    },
+    {
+      "class": "group",
+      "id": "3C73A441-3BA6-47DE-B0E9-4337B15446F2"
     }
   ],
   "name": "6-转账",
@@ -117,6 +121,13 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "homeScreenID": "4441F3F3-6212-4A96-9250-CE45A19FB5E3",
+      "lastUsedFlowDescription": "",
+      "lastUsedFlowTitle": "概览-转账"
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

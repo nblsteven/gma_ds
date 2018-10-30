@@ -18,7 +18,7 @@
     ],
     "includedLayerIds": [
     ],
-    "layerOptions": 0,
+    "layerOptions": 2,
     "shouldTrim": false
   },
   "frame": {
@@ -27,11 +27,11 @@
     "do_objectID": "0347628A-B4B0-45A7-86C0-60B7F11F4DCC",
     "height": 667,
     "width": 375,
-    "x": 2129,
-    "y": 970
+    "x": 1911,
+    "y": 744
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -51,7 +51,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -99,6 +99,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "773C2640-DF7B-4756-83E6-94A286487487"
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

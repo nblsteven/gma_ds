@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.7411764705882353,
-            "green": 0.6392156862745098,
-            "red": 0.6196078431372549
+            "blue": 0.4,
+            "green": 0.4,
+            "red": 0.4
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -24,7 +24,9 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
           }
         },
         "length": 42,
@@ -52,19 +54,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F6577865-EC93-4E51-9A26-3838EDAB3A7B",
-    "height": 60,
+    "height": 66,
     "width": 228,
     "x": 29.5,
-    "y": 108.5
+    "y": 106.5
   },
-  "glyphBounds": "{{0, 3}, {227, 54}}",
+  "glyphBounds": "{{0, 5}, {227, 58}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "lineSpacingBehaviour": 0,
   "name": "一旦格式化，WOOKONG Bio将清除",
   "nameIsFixed": false,
@@ -72,6 +74,7 @@
   "resizingConstraint": 2,
   "resizingType": 2,
   "rotation": 0,
+  "sharedStyleID": "7A95981B-FDDF-4B2D-B1A9-0BB2A0E32D23",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -81,14 +84,13 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "82CE4EE2-ACDF-4A67-A058-6FC5D075EFD1",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7411764705882353,
-          "green": 0.6392156862745098,
-          "red": 0.6196078431372549
+          "blue": 0.4,
+          "green": 0.4,
+          "red": 0.4
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -101,7 +103,9 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
         }
       },
       "verticalAlignment": 0

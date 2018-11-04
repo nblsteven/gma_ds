@@ -17,16 +17,16 @@
     "_class": "MSImmutableFlowConnection",
     "animationType": 0,
     "destinationArtboardID": "A267A9D9-178B-4D19-A231-018E6C19478B",
-    "do_objectID": "0AF8BBAE-A6EE-40C8-A358-5657B22E5D9A"
+    "do_objectID": "487E29AE-A24C-4A1B-80E9-A2F4D9C83912"
   },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "16400E5A-E6F7-4D08-846D-736547A3E74B",
-    "height": 66,
+    "height": 67,
     "width": 336,
     "x": 19,
-    "y": 94
+    "y": 93
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -35,7 +35,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -48,6 +48,18 @@
     {
       "class": "text",
       "id": "FB9B1D55-A7CD-4D95-853F-344FC84077B0"
+    },
+    {
+      "class": "text",
+      "id": "00D06516-0AEB-4328-8076-66C1D04C104A"
+    },
+    {
+      "class": "group",
+      "id": "C59BEFFA-335E-4E88-A8AC-E25A172B10CC"
+    },
+    {
+      "class": "group",
+      "id": "95023C60-B536-45CA-8226-AE458677B096"
     }
   ],
   "name": "list1",

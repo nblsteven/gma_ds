@@ -31,7 +31,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "name": "Rectangle 2",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
@@ -83,22 +83,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 1,
-        "thickness": 1
-      }
-    ],
     "do_objectID": "D54528CC-F9B2-45ED-A128-0E86C9F35897",
     "endMarkerType": 0,
     "fills": [
@@ -107,9 +91,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8196078431372549,
-          "green": 0.4117647058823528,
-          "red": 0.2549019607843137
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
         },
         "fillType": 0,
         "isEnabled": true,

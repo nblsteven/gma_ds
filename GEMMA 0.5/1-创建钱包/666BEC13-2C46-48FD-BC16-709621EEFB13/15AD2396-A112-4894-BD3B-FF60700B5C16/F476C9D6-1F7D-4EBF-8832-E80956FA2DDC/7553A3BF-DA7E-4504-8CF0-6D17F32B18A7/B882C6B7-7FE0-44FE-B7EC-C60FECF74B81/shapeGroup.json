@@ -29,7 +29,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapePath",
@@ -44,8 +44,8 @@
       "id": "DA70DC49-9E2A-44A9-AE55-FBD97B8477F0"
     }
   ],
-  "name": "Shape",
-  "nameIsFixed": false,
+  "name": "ic_visible",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -60,9 +60,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2901960784313726,
-          "green": 0.2901960784313726,
-          "red": 0.2901960784313726
+          "blue": 0.8,
+          "green": 0.8,
+          "red": 0.8
         },
         "fillType": 0,
         "isEnabled": true,

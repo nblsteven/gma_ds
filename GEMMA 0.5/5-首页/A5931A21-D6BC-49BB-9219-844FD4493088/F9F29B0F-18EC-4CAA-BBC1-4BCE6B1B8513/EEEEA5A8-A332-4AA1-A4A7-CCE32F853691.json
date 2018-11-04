@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.407843137254902,
-            "green": 0.1725490196078432,
-            "red": 0.1294117647058823
+            "blue": 0.4,
+            "green": 0.4,
+            "red": 0.4
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -29,11 +29,11 @@
             "minimumLineHeight": 12
           }
         },
-        "length": 13,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "账户创建中…区块确认58%"
+    "string": "账户创建中…58%"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -55,24 +55,25 @@
     "constrainProportions": false,
     "do_objectID": "11447675-F944-4EDC-8C0C-9E8AB721FE74",
     "height": 12,
-    "width": 147,
+    "width": 99,
     "x": 65,
     "y": 58
   },
-  "glyphBounds": "{{0, 0}, {146, 12}}",
+  "glyphBounds": "{{0, 0}, {98, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "lineSpacingBehaviour": 2,
-  "name": "账户创建中…区块确认58%",
+  "name": "账户创建中…58%",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "13C82FED-C8B3-4645-94F7-11C008BB8EFE",
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
@@ -82,14 +83,13 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "40BFE3D3-5187-4F4A-B526-E87115D57189",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.407843137254902,
-          "green": 0.1725490196078432,
-          "red": 0.1294117647058823
+          "blue": 0.4,
+          "green": 0.4,
+          "red": 0.4
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

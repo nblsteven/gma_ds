@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8313725490196079,
-            "green": 0.419607843137255,
-            "red": 0.2588235294117647
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -23,11 +23,12 @@
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 14,
             "minimumLineHeight": 14
-          }
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
         "length": 4,
         "location": 0
@@ -54,7 +55,7 @@
     "_class": "MSImmutableFlowConnection",
     "animationType": 0,
     "destinationArtboardID": "30E43A33-8C74-46EC-AE6C-7C73BE533D52",
-    "do_objectID": "5F47F243-6D28-4051-8D10-57E5EA9FFE93"
+    "do_objectID": "61991D7C-4417-4E9D-9300-8740657E7833"
   },
   "frame": {
     "_class": "rect",
@@ -72,13 +73,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "lineSpacingBehaviour": 2,
   "name": "节点投票",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "8BF18D65-4DF6-4324-88F9-2555A0D31052",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -88,14 +90,13 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "8A97E24A-E757-4E55-8C7E-322BF9140FD6",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8313725490196079,
-          "green": 0.419607843137255,
-          "red": 0.2588235294117647
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -107,11 +108,12 @@
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 14,
           "minimumLineHeight": 14
-        }
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },

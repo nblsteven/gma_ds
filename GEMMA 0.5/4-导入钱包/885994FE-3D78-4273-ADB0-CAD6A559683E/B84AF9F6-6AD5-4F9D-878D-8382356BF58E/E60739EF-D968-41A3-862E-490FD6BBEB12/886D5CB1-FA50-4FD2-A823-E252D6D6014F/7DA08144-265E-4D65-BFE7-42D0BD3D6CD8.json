@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "name": "Oval",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
@@ -98,9 +98,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8196078431372549,
-          "green": 0.4117647058823528,
-          "red": 0.2549019607843137
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
         },
         "fillType": 0,
         "isEnabled": true,
@@ -110,24 +110,6 @@
     ],
     "do_objectID": "0448E9BF-1AEA-436B-A394-073DB94C4A63",
     "endMarkerType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.8352941176470589,
-          "green": 0.4352941176470592,
-          "red": 0.2784313725490197
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 0

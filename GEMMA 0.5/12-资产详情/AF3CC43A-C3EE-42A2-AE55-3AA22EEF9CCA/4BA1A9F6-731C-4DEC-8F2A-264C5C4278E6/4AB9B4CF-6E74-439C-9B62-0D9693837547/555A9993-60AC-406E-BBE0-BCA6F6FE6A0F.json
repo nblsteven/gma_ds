@@ -31,7 +31,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "name": "Rectangle 3",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
@@ -89,59 +89,19 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8196078431372549,
-          "green": 0.4117647058823528,
-          "red": 0.2549019607843137
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "position": 1,
         "thickness": 1
       }
     ],
     "do_objectID": "8F01E51E-7DA1-45DF-97C1-0D26A301DAC2",
     "endMarkerType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.8313725490196078,
-          "green": 0.4196078431372549,
-          "red": 0.2588235294117647
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 4,
-        "color": {
-          "_class": "color",
-          "alpha": 0.05,
-          "blue": 0.4901960784313725,
-          "green": 0.2039215686274509,
-          "red": 0.1529411764705882
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": -2,
-        "spread": 0
-      }
-    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

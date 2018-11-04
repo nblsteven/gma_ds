@@ -9,8 +9,8 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8784313725490196,
-            "green": 0.5058823529411766,
+            "blue": 0.2,
+            "green": 0.2,
             "red": 0.2
           },
           "MSAttributedStringFontAttribute": {
@@ -27,7 +27,8 @@
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 14,
             "minimumLineHeight": 14
-          }
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
         "length": 5,
         "location": 0
@@ -66,7 +67,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "lineSpacingBehaviour": 2,
   "name": "请点击验证",
   "nameIsFixed": false,
@@ -74,6 +75,7 @@
   "resizingConstraint": 2,
   "resizingType": 2,
   "rotation": 0,
+  "sharedStyleID": "8BF18D65-4DF6-4324-88F9-2555A0D31052",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -83,13 +85,12 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "6571CB68-DBA1-4966-9DA5-FD12287040EC",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8784313725490196,
-          "green": 0.5058823529411766,
+          "blue": 0.2,
+          "green": 0.2,
           "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
@@ -106,7 +107,8 @@
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 14,
           "minimumLineHeight": 14
-        }
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },

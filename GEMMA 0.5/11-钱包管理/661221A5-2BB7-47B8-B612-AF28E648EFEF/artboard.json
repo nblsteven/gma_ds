@@ -27,11 +27,11 @@
     "do_objectID": "D65AAB34-D3A5-4E0A-AC37-C0AE6DF66C0D",
     "height": 812,
     "width": 375,
-    "x": 4200,
-    "y": -2047
+    "x": 1592,
+    "y": -1760
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -64,6 +64,10 @@
     },
     {
       "class": "group",
+      "id": "B942E777-DAC1-4F2C-B4BD-07CDFB1749CE"
+    },
+    {
+      "class": "group",
       "id": "0247C11C-659E-4337-B2FF-17917E8426A7"
     },
     {
@@ -73,10 +77,6 @@
     {
       "class": "group",
       "id": "BD270723-BEEB-440E-89C5-2964D1ACBAA7"
-    },
-    {
-      "class": "group",
-      "id": "B942E777-DAC1-4F2C-B4BD-07CDFB1749CE"
     },
     {
       "class": "group",
@@ -114,6 +114,7 @@
     "base": 0,
     "do_objectID": "9E78A91A-C952-46AA-B5C1-58718ABB720D",
     "guides": [
+      64
     ]
   }
 }

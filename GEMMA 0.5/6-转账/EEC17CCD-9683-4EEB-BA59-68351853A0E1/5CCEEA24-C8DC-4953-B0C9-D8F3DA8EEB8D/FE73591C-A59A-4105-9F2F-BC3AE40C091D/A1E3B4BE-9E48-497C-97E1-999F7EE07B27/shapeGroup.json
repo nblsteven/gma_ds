@@ -29,7 +29,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapePath",
@@ -76,8 +76,8 @@
       "id": "8F0384FE-CDAB-4BA8-9C50-789F50B968EA"
     }
   ],
-  "name": "Fill 1",
-  "nameIsFixed": false,
+  "name": "ic_waiting",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -92,9 +92,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8705882352941177,
-          "green": 0.792156862745098,
-          "red": 0.7764705882352941
+          "blue": 0.8,
+          "green": 0.8,
+          "red": 0.8
         },
         "fillType": 0,
         "isEnabled": true,

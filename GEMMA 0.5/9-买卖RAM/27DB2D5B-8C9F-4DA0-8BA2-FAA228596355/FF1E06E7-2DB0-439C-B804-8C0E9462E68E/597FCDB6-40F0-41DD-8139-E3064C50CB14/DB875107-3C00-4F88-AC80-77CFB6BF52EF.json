@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8431372549019608,
-            "green": 0.796078431372549,
-            "red": 0.788235294117647
+            "blue": 0.8,
+            "green": 0.8,
+            "red": 0.8
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -29,11 +29,11 @@
             "minimumLineHeight": 16
           }
         },
-        "length": 10,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "请输入XXXX的密码"
+    "string": "请输入密码"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -55,25 +55,25 @@
     "constrainProportions": false,
     "do_objectID": "782B8B60-9892-490A-812E-2FFC9FB34F2A",
     "height": 16,
-    "width": 137,
+    "width": 80,
     "x": 0,
     "y": 54
   },
-  "glyphBounds": "{{0, 0}, {136, 16}}",
+  "glyphBounds": "{{0, 0}, {79, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "lineSpacingBehaviour": 2,
-  "name": "请输入XXXX的密码",
+  "name": "请输入密码",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "529A08BB-27D3-482F-9E70-960C65C96D27",
+  "sharedStyleID": "097969F5-9769-42DD-9059-CEFA41B73CFE",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -83,14 +83,13 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "64C4B87F-38AA-4BED-AADB-3665D8509EB1",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8431372549019608,
-          "green": 0.796078431372549,
-          "red": 0.788235294117647
+          "blue": 0.8,
+          "green": 0.8,
+          "red": 0.8
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

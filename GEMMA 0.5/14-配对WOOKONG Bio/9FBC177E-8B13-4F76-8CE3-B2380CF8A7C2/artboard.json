@@ -27,11 +27,11 @@
     "do_objectID": "C570B9BD-5AA7-4F54-9C12-7548F354DAF4",
     "height": 667,
     "width": 375,
-    "x": 4821,
-    "y": -505
+    "x": 4836,
+    "y": -945
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -66,7 +66,7 @@
     },
     {
       "class": "group",
-      "id": "3ADFEE84-2C12-462D-BAF3-55AF687B2F36"
+      "id": "2D97075F-6F67-416F-910D-083226038148"
     },
     {
       "class": "group",
@@ -108,7 +108,8 @@
     "base": 0,
     "do_objectID": "BD6399C5-8E74-442D-9675-96CFC5F6BB2B",
     "guides": [
-      64
+      64,
+      302
     ]
   }
 }

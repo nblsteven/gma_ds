@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.407843137254902,
-            "green": 0.1725490196078432,
-            "red": 0.1294117647058823
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -29,11 +29,40 @@
             "minimumLineHeight": 16
           }
         },
-        "length": 9,
+        "length": 7,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4,
+            "green": 0.4,
+            "red": 0.4
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "PingFangSC-Regular",
+              "size": 14
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 1,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
+          }
+        },
+        "length": 3,
+        "location": 7
       }
     ],
-    "string": "0.000 EOS"
+    "string": "0.0000 EOS"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -55,20 +84,20 @@
     "constrainProportions": false,
     "do_objectID": "CB6AE9B5-CB9B-4CAE-979F-23AA3AFCB78C",
     "height": 16,
-    "width": 82,
-    "x": 223,
+    "width": 87,
+    "x": 218,
     "y": 0
   },
-  "glyphBounds": "{{0, 2}, {81, 13}}",
+  "glyphBounds": "{{0, 2}, {86, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "lineSpacingBehaviour": 2,
-  "name": "0.000 EOS",
+  "name": "0.0000 EOS",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -87,9 +116,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.407843137254902,
-          "green": 0.1725490196078432,
-          "red": 0.1294117647058823
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

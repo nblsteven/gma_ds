@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5764705882,
-            "green": 0.5568627451,
-            "red": 0.5568627451
+            "blue": 0.4,
+            "green": 0.4,
+            "red": 0.4
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -29,11 +29,11 @@
             "minimumLineHeight": 14
           }
         },
-        "length": 5,
+        "length": 31,
         "location": 0
       }
     ],
-    "string": "EOS钱包"
+    "string": "EOS012345678987654321…123456789"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -55,25 +55,25 @@
     "constrainProportions": false,
     "do_objectID": "7AAD7D83-1DA5-422A-B72B-CB10B36C95EC",
     "height": 14,
-    "width": 57,
+    "width": 259,
     "x": 0,
     "y": 30
   },
-  "glyphBounds": "{{1, 0}, {55, 14}}",
+  "glyphBounds": "{{1, 1}, {258, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "lineSpacingBehaviour": 2,
-  "name": "EOS钱包",
+  "name": "EOS01234567898765432",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "6412F87E-900D-4392-A1F1-78DC4A616A1F",
+  "sharedStyleID": "B43ABCB1-2927-4EA7-BB58-85F887DA48D2",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -83,14 +83,13 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "94802D27-88EB-435E-96C4-050B7D012BAA",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5764705882,
-          "green": 0.5568627451,
-          "red": 0.5568627451
+          "blue": 0.4,
+          "green": 0.4,
+          "red": 0.4
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

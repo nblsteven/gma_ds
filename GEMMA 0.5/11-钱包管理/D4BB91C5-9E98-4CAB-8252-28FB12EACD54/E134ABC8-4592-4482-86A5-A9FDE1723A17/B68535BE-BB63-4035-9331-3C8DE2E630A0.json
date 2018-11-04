@@ -31,7 +31,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "name": "Rectangle 3",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
@@ -89,9 +89,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8313725490196078,
-          "green": 0.4196078431372549,
-          "red": 0.2588235294117647
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
         },
         "fillType": 0,
         "isEnabled": true,
@@ -101,24 +101,6 @@
     ],
     "do_objectID": "143A4393-3094-49C0-AC14-314425D19541",
     "endMarkerType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.8313725490196078,
-          "green": 0.4196078431372549,
-          "red": 0.2588235294117647
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1

@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.407843137254902,
-            "green": 0.1725490196078432,
-            "red": 0.1294117647058823
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -66,13 +66,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "lineSpacingBehaviour": 2,
   "name": "0.0000",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "69FC5EFE-B8EE-4F1C-9AF6-7416DBF17AFF",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -82,14 +83,13 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "A411EA98-DCC7-40B9-A6E3-87FC571993D4",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.407843137254902,
-          "green": 0.1725490196078432,
-          "red": 0.1294117647058823
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -111,11 +111,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
-  "userInfo": {
-    "com.abynim.sketchplugins.userflows": {
-      "destinationArtboardID": "B989B33C-77CF-4453-88E7-122E8DB0A186",
-      "sharedBorderStyleID": "C2B1AA98-E73F-4529-A58C-CEA6E6B3647B"
-    }
-  }
+  "textBehaviour": 0
 }

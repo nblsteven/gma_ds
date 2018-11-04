@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4039215686,
-            "green": 0.1725490196,
-            "red": 0.1294117647
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -25,10 +25,9 @@
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
+          }
         },
         "length": 8,
         "location": 0
@@ -55,26 +54,26 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "E4D47981-049F-400F-BDD7-5679CCFD40A6",
-    "height": 22,
+    "height": 16,
     "width": 72,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 5}, {70, 13}}",
+  "glyphBounds": "{{1, 2}, {70, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "lineSpacingBehaviour": 2,
   "name": "EOS Asia",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "14D5BCC5-2DC5-4E82-9D0F-B6306CA6D89D",
+  "sharedStyleID": "8108CE1A-B7E9-4BA6-8409-1E194081AB78",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -84,14 +83,13 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "69E7EA24-3E6B-4A08-BEE7-DE30DF0F3261",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4039215686,
-          "green": 0.1725490196,
-          "red": 0.1294117647
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -105,10 +103,9 @@
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 22,
-          "minimumLineHeight": 22
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
+        }
       },
       "verticalAlignment": 0
     },

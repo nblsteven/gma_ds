@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4039215686,
-            "green": 0.1725490196,
-            "red": 0.1294117647
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -25,10 +25,9 @@
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
+          }
         },
         "length": 22,
         "location": 0
@@ -60,21 +59,21 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 3}, {320, 38}}",
+  "glyphBounds": "{{0, 0}, {320, 32}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "lineSpacingBehaviour": 2,
   "name": "请记下你的钱包私钥助记词并保存在安全的地",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "CD05D901-E02D-46B1-B02D-1A71FF5EA17C",
+  "sharedStyleID": "D1E7FA88-5AC9-495A-A950-A0BCDB872BF9",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -84,14 +83,13 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "A24A6A4B-89B4-42EB-95CB-0F883D0BB5BA",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4039215686,
-          "green": 0.1725490196,
-          "red": 0.1294117647
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -105,10 +103,9 @@
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 22,
-          "minimumLineHeight": 22
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
+        }
       },
       "verticalAlignment": 0
     },

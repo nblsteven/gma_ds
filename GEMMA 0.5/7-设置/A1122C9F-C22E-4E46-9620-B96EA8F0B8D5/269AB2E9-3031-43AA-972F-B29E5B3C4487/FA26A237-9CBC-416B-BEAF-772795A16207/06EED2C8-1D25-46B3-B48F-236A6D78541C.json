@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "name": "Triangle Copy 3",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
@@ -72,22 +72,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 0,
-        "thickness": 1
-      }
-    ],
     "do_objectID": "1FE1EA47-5745-4C87-BE7A-FF2F4976D39B",
     "endMarkerType": 0,
     "fills": [
@@ -96,9 +80,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8313725490196078,
-          "green": 0.4196078431372549,
-          "red": 0.2588235294117647
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
         },
         "fillType": 0,
         "isEnabled": true,

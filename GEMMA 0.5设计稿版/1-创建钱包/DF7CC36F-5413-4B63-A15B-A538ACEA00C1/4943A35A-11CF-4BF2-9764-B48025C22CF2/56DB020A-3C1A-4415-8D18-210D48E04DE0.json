@@ -9,40 +9,40 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4,
-            "green": 0.4,
-            "red": 0.4
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PingFangSC-Regular",
-              "size": 14
+              "size": 16
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 14,
-            "minimumLineHeight": 14
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
           }
         },
-        "length": 3,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "RAM"
+    "string": "从备份恢复已有钱包"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "7A147DF8-7800-401D-B94D-B394518116DE",
+  "do_objectID": "56DB020A-3C1A-4415-8D18-210D48E04DE0",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "345C52A7-EB85-4967-9B88-E50C976DC320",
+    "do_objectID": "F7AC3BAF-505C-4F69-8051-52E921D9DB7D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,13 +53,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "661E48DE-0715-4360-9F88-6AF40A2A812B",
-    "height": 14,
-    "width": 32,
-    "x": 1,
-    "y": 0
+    "do_objectID": "55AB1F20-A404-48AD-B4C6-78479FD17D6D",
+    "height": 16,
+    "width": 150,
+    "x": 78,
+    "y": 14
   },
-  "glyphBounds": "{{1, 2}, {30, 11}}",
+  "glyphBounds": "{{3, 0}, {143, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,55 +68,49 @@
   "isVisible": true,
   "layerListExpandedType": 1,
   "lineSpacingBehaviour": 2,
-  "name": "RAM",
+  "name": "从备份恢复已有钱包",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "B43ABCB1-2927-4EA7-BB58-85F887DA48D2",
+  "sharedStyleID": "859BF97B-AEF4-4E90-B0E0-2F7D000D7779",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "10B6C1B7-E4B4-4F29-9259-28D88BE6B501",
+    "do_objectID": "20CFF1A5-AFD6-49DF-8CA7-5603F7F7B065",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "F6A83730-B130-485B-85E2-7C3BEA0AA8AB",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4,
-          "green": 0.4,
-          "red": 0.4
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PingFangSC-Regular",
-            "size": 14
+            "size": 16
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 14,
-          "minimumLineHeight": 14
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 1
-      }
-    }
-  }
+  "textBehaviour": 1
 }

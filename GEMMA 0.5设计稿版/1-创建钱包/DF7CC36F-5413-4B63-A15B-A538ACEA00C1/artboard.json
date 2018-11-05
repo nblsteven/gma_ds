@@ -4,31 +4,31 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "57D8D1F7-F08D-46C1-B632-6FB2D3BAB093",
+    "do_objectID": "6FA88E19-5909-45C5-A7D4-6C8710CB2AB2",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "221C73A1-D57F-4230-923F-33D3667B8E5D",
+  "do_objectID": "DF7CC36F-5413-4B63-A15B-A538ACEA00C1",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C6D879C1-5E2D-41C5-8123-D115045E73F3",
+    "do_objectID": "3A448B47-4B7D-4C3B-A460-AF1EC275A010",
     "exportFormats": [
     ],
     "includedLayerIds": [
     ],
-    "layerOptions": 2,
+    "layerOptions": 0,
     "shouldTrim": false
   },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3404EE63-2040-403E-8A1F-EC163EB4728E",
+    "do_objectID": "0758CB5E-EA5E-4E50-B10A-9293E97C59AA",
     "height": 667,
     "width": 375,
-    "x": -1376,
-    "y": -406
+    "x": 1102,
+    "y": -3442
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -36,7 +36,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "ADFCA105-6CB3-4EF7-AF01-6F65839F75B6",
+    "do_objectID": "A96FBEB3-0B4C-42A5-A58C-6E6D1071D1B3",
     "guides": [
     ]
   },
@@ -48,30 +48,46 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
-      "id": "2F02572A-DB30-41CF-9815-594712598098"
+      "id": "C2D7832A-0B15-4324-8174-46F095DC78A4"
+    },
+    {
+      "class": "bitmap",
+      "id": "6AEBFFD2-6E98-447E-BF44-767776C98EC5"
     },
     {
       "class": "group",
-      "id": "FF1CF7A2-D2EA-486A-B36B-3685A8982068"
+      "id": "24A0BA3E-A1CC-457F-82BE-B9C8A80DE926"
     },
     {
       "class": "group",
-      "id": "7B7E9E6D-B78D-4F62-BE29-7A16F6277E86"
+      "id": "4943A35A-11CF-4BF2-9764-B48025C22CF2"
     },
     {
       "class": "group",
-      "id": "3B96E6A8-167B-420F-85A7-6DE5347E1607"
+      "id": "5BE6648C-FDFD-4E8A-8049-FF2833E675C7"
+    },
+    {
+      "class": "group",
+      "id": "C9C0538B-3E2F-4B48-9C58-B138097FC47D"
     },
     {
       "class": "text",
-      "id": "8C8E8651-6E0A-44CD-A692-60CCF02DB193"
+      "id": "D13DB988-F2C4-4CD0-AAEE-D2B24018AC7F"
+    },
+    {
+      "class": "text",
+      "id": "59764575-B777-4D00-91AC-8625D3E48EA7"
+    },
+    {
+      "class": "group",
+      "id": "270BE5C4-701A-4673-96AA-D7F6CE5C2B76"
     }
   ],
-  "name": "10-资源详情 WOOKONG Bio",
+  "name": "1-启动-1",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -87,21 +103,16 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "14EB653B-F75D-4A77-9105-6A5F06EFD4A3",
+    "do_objectID": "68D860A6-BAD9-4EB4-A093-9D39E44E081B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "userInfo": {
-    "com.abynim.sketchplugins.userflows": {
-      "artboardID": "221C73A1-D57F-4230-923F-33D3667B8E5D"
-    }
-  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "217A8A62-AD24-448C-B5D0-E7AC7F8B6657",
+    "do_objectID": "B8F3A374-27A1-4AF2-9A42-956455A55E23",
     "guides": [
     ]
   }

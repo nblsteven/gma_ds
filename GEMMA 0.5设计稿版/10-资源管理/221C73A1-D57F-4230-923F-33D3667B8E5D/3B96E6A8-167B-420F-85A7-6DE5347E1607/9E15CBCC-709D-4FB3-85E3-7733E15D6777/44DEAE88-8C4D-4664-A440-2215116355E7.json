@@ -33,7 +33,7 @@
         "location": 0
       }
     ],
-    "string": "CPU"
+    "string": "RAM"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -55,11 +55,11 @@
     "constrainProportions": false,
     "do_objectID": "C1328DFB-26D7-4555-A415-412719E53300",
     "height": 14,
-    "width": 30,
+    "width": 32,
     "x": 1,
     "y": 0
   },
-  "glyphBounds": "{{0, 1}, {29, 12}}",
+  "glyphBounds": "{{1, 2}, {30, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 1,
   "lineSpacingBehaviour": 2,
-  "name": "CPU",
+  "name": "RAM",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

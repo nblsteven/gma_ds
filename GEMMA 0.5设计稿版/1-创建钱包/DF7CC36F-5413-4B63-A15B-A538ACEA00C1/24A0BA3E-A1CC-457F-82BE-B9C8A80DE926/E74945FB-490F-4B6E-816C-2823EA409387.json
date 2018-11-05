@@ -9,40 +9,40 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4,
-            "green": 0.4,
-            "red": 0.4
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PingFangSC-Regular",
-              "size": 14
+              "size": 16
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 14,
-            "minimumLineHeight": 14
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
           }
         },
-        "length": 3,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "RAM"
+    "string": "配对WOOKONG Bio"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "7A147DF8-7800-401D-B94D-B394518116DE",
+  "do_objectID": "E74945FB-490F-4B6E-816C-2823EA409387",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "345C52A7-EB85-4967-9B88-E50C976DC320",
+    "do_objectID": "E7B4B932-2460-4C1D-8963-387E6FF914EB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,13 +53,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "661E48DE-0715-4360-9F88-6AF40A2A812B",
-    "height": 14,
-    "width": 32,
-    "x": 1,
-    "y": 0
+    "do_objectID": "831953EB-89F7-40D6-A9E6-8AA743CBB509",
+    "height": 16,
+    "width": 153,
+    "x": 89,
+    "y": 14
   },
-  "glyphBounds": "{{1, 2}, {30, 11}}",
+  "glyphBounds": "{{3, 0}, {147, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,55 +68,48 @@
   "isVisible": true,
   "layerListExpandedType": 1,
   "lineSpacingBehaviour": 2,
-  "name": "RAM",
+  "name": "配对WOOKONG Bio",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "B43ABCB1-2927-4EA7-BB58-85F887DA48D2",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "10B6C1B7-E4B4-4F29-9259-28D88BE6B501",
+    "do_objectID": "33495A9C-C6FA-442E-B679-E4686CFFF1B0",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "36DB4C7A-012B-423A-A2A7-5FCE9F270655",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4,
-          "green": 0.4,
-          "red": 0.4
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PingFangSC-Regular",
-            "size": 14
+            "size": 16
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 14,
-          "minimumLineHeight": 14
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 1
-      }
-    }
-  }
+  "textBehaviour": 1
 }

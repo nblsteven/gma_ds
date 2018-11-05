@@ -2,10 +2,10 @@
   "_class": "group",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "1C9B0CF6-B21B-48AD-B03E-72E02ECC819E",
+  "do_objectID": "1092BB3D-A575-4D23-BE16-1FFD3FFC46F2",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "7DDBD4C9-DBC8-40AA-B99D-A98B317D7FC2",
+    "do_objectID": "C89520AC-DAD1-41B9-80B5-1C248E331AB1",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,19 +13,14 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "flow": {
-    "_class": "MSImmutableFlowConnection",
-    "animationType": 0,
-    "destinationArtboardID": "32879B16-E997-4CA2-9700-686150ADA133"
-  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2F1D27F1-6A12-456E-B180-9551AF9AFDA6",
-    "height": 37,
-    "width": 336,
-    "x": 0,
-    "y": 91
+    "do_objectID": "3D2EAD0F-E7FE-44D3-9BE3-5150127AD300",
+    "height": 24,
+    "width": 24,
+    "x": 306,
+    "y": 17
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,23 +28,27 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
-  "layerListExpandedType": 0,
+  "isVisible": false,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "text",
-      "id": "220AFDA5-8EAF-4845-9767-F7053EDEA345"
+      "class": "slice",
+      "id": "A4576286-8158-4FC7-ADF7-4FBFEA8541B9"
     },
     {
-      "class": "rectangle",
-      "id": "128EEB40-4156-487A-85E0-8C9B350474F5"
+      "class": "slice",
+      "id": "68FE95E8-E116-419B-BAD7-6AF5D229AB4D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D23895FC-0F75-474C-8C55-451B2876D0F9"
     },
     {
       "class": "group",
-      "id": "A5EA81BC-163C-4A58-9247-4067C17B28BE"
+      "id": "04F989DA-CEF4-4FBF-A022-B13F768EADDA"
     }
   ],
-  "name": "Group 4",
+  "name": "Icon/ic_visible",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -57,7 +56,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "9AD62698-6903-4887-866A-9EA789855E01",
+    "do_objectID": "E7B3E94B-7B39-4848-8239-680E36621876",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

@@ -9,40 +9,35 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.6,
+            "green": 0.6,
+            "red": 0.6
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "PingFangSC-Regular",
-              "size": 16
+              "name": "HelveticaNeue",
+              "size": 12
             }
           },
-          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
+            "alignment": 0
           }
         },
-        "length": 3,
+        "length": 36,
         "location": 0
       }
     ],
-    "string": "下一步"
+    "string": "Modified on Nov 5, 2018 by Steven Wu"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3778749D-855D-4E40-9DC7-F2A0A0CB679B",
+  "do_objectID": "E4744644-33F4-49B4-995B-EB0EF79C2D9C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B38EE9BF-912B-4A05-8AAD-1C10CFAE8122",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,31 +48,28 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "ED80007A-02B4-43E3-9A5B-1B94300575B9",
-    "height": 16,
-    "width": 74,
-    "x": 116,
-    "y": 14
+    "height": 14,
+    "width": 600,
+    "x": 40,
+    "y": 116.8
   },
-  "glyphBounds": "{{13, 0}, {48, 16}}",
+  "glyphBounds": "{{0, 2}, {210, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "下一步",
+  "name": "Modified Date",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "859BF97B-AEF4-4E90-B0E0-2F7D000D7779",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "9CB7E171-DF4B-4B9A-93DF-3DA5C7FE7B28",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -87,24 +79,20 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.6,
+          "green": 0.6,
+          "red": 0.6
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "PingFangSC-Regular",
-            "size": 16
+            "name": "HelveticaNeue",
+            "size": 12
           }
         },
-        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16
+          "alignment": 0
         }
       },
       "verticalAlignment": 0

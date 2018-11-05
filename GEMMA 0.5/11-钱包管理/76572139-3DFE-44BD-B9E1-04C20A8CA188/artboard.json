@@ -25,13 +25,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1F33A330-435D-4078-B86C-B0A8D5AC2B0F",
-    "height": 163,
+    "height": 190,
     "width": 280,
-    "x": -62,
-    "y": 1655
+    "x": 66,
+    "y": 1747
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,8 +59,16 @@
       "id": "DC99EF98-5334-4A12-86D6-269134703614"
     },
     {
+      "class": "group",
+      "id": "B4E94F71-2F36-42CD-A450-75B90FCE08B3"
+    },
+    {
       "class": "rectangle",
       "id": "9FC792CE-15D5-4FC6-A9FD-B0C4579D020C"
+    },
+    {
+      "class": "rectangle",
+      "id": "085C60B4-0AB0-4912-B3D5-D374FEA61FAC"
     }
   ],
   "name": "-Steps-",

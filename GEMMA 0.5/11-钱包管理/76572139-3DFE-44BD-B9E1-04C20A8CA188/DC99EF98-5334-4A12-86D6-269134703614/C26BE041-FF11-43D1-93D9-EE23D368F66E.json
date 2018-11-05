@@ -26,11 +26,11 @@
             "minimumLineHeight": 22.4
           }
         },
-        "length": 19,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "2. 若无指纹或3次失败，改PIN验证"
+    "string": "2. 若有其他钱包，跳转选择钱包"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0D4CDC14-05ED-4E6F-A6C5-7C34584066F9",
-    "height": 44.8,
+    "height": 22,
     "width": 232,
     "x": 8,
-    "y": 8
+    "y": 9
   },
-  "glyphBounds": "{{0, 4}, {230, 37}}",
+  "glyphBounds": "{{0, 4}, {227, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 1,
   "lineSpacingBehaviour": 2,
-  "name": "2. 若无指纹或3次失败，改PIN验证",
+  "name": "2. 若有其他钱包，跳转选择钱包",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

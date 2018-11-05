@@ -18,7 +18,7 @@
     ],
     "includedLayerIds": [
     ],
-    "layerOptions": 0,
+    "layerOptions": 2,
     "shouldTrim": false
   },
   "frame": {
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -76,15 +76,15 @@
     },
     {
       "class": "group",
-      "id": "F0540750-D6AE-4BF6-8A3B-B890B344D63C"
-    },
-    {
-      "class": "group",
       "id": "BC633435-6A92-432B-A333-9B53EFEBF930"
     },
     {
       "class": "group",
       "id": "0ED32592-FB3C-4B00-A847-6B2FE9ADAF10"
+    },
+    {
+      "class": "group",
+      "id": "28DBCF5A-3630-481E-8EC8-49BE248A44AE"
     }
   ],
   "name": "11-确认格式化",
@@ -114,6 +114,7 @@
     "base": 0,
     "do_objectID": "6D50CACB-A21A-4621-A6CC-1D284FB0B202",
     "guides": [
+      399
     ]
   }
 }

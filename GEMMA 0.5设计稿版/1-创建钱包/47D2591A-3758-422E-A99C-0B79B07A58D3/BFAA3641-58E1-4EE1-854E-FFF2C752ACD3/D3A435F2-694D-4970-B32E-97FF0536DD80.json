@@ -16,9 +16,45 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
+        "name": "mdpi/",
+        "namingScheme": 1,
         "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
         "visibleScaleType": 0
       }
     ],
@@ -33,7 +69,7 @@
     "height": 300,
     "width": 375,
     "x": 148,
-    "y": 59
+    "y": 0
   },
   "hasBackgroundColor": false,
   "isFixedToViewport": false,
@@ -42,8 +78,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "page_1",
-  "nameIsFixed": false,
+  "name": "img_page_1",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

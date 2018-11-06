@@ -18,17 +18,8 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@1x",
-        "namingScheme": 0,
+        "name": "mdpi/",
+        "namingScheme": 1,
         "scale": 1,
         "visibleScaleType": 0
       },
@@ -36,8 +27,26 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "@3x",
-        "namingScheme": 0,
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
         "scale": 3,
         "visibleScaleType": 0
       },
@@ -45,27 +54,9 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "@4x",
-        "namingScheme": 0,
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
         "scale": 4,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@5x",
-        "namingScheme": 0,
-        "scale": 5,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@6x",
-        "namingScheme": 0,
-        "scale": 6,
         "visibleScaleType": 0
       }
     ],

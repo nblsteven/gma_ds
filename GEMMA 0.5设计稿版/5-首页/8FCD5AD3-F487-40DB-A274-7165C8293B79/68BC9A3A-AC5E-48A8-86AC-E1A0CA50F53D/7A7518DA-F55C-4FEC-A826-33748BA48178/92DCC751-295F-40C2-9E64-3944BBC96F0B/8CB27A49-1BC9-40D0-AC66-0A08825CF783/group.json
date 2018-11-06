@@ -2,10 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "04529D0D-8990-448A-A141-D41A4B4127D9",
+  "do_objectID": "8CB27A49-1BC9-40D0-AC66-0A08825CF783",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "82ECFAC5-B832-4907-AF47-F8AC299062CE",
+    "do_objectID": "347D10B1-8D12-47F7-852A-0C5A7B98AA05",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "4C39A22D-60AF-4EB7-9873-914210580C2D",
-    "height": 11,
+    "do_objectID": "6CEB7D62-A61C-4FBB-B040-76C58956AFE8",
+    "height": 12,
     "width": 12,
     "x": 2,
-    "y": 3
+    "y": 2
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -28,16 +28,24 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": false,
-  "layerListExpandedType": 0,
+  "isVisible": true,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "15FE7E32-0EFB-4BBD-82A5-DBF672DA94AC"
+      "class": "shapePath",
+      "id": "B691815C-0EAD-4F58-9A94-5BD26D0B1A00"
     },
     {
       "class": "shapePath",
-      "id": "E6087ABC-F553-4A75-9F25-D7984C1A8334"
+      "id": "20ECBB50-8BEA-4F32-9D3F-208C77048021"
+    },
+    {
+      "class": "shapePath",
+      "id": "2BA2EBE2-CA20-43E1-9D7C-788E4D76439F"
+    },
+    {
+      "class": "shapePath",
+      "id": "447F6190-10A1-4782-B26E-EECAB7184326"
     }
   ],
   "name": "ic_non backup",
@@ -48,17 +56,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "do_objectID": "D16719DB-799E-45A3-859C-CD94B8160FA2",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 1.84331797235023,
-      "saturation": 1,
-      "type": 0
-    },
-    "do_objectID": "B2D18D09-3CD1-4A8F-825B-9CB5B943615C",
+    "do_objectID": "48C601EC-417D-47D3-AECB-9DEC210F2DF2",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

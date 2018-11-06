@@ -2,11 +2,10 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "137EA718-6165-4765-8E37-6B6A08043950",
+  "do_objectID": "3E9CD816-0C9E-4EC0-A077-C880CD403E74",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "9A841873-FADE-4BE0-9DD3-64163DC8B7DD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -20,8 +19,8 @@
     "constrainProportions": false,
     "height": 40,
     "width": 100,
-    "x": 0,
-    "y": 0
+    "x": 4,
+    "y": 6
   },
   "hasClippingMask": true,
   "hasConvertedToNewRoundCorners": true,
@@ -32,13 +31,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "Rectangle 3",
-  "nameIsFixed": false,
+  "name": "btn_vote number_disable",
+  "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 22,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -48,7 +47,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 22,
+      "cornerRadius": 0,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -58,7 +57,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 22,
+      "cornerRadius": 0,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -68,7 +67,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 22,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -99,7 +98,7 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "3CDD1754-F596-4388-B7FC-1FC1E82E3F51",
+    "do_objectID": "587DD1A3-0EAC-4DF5-946B-4E237D29DFB1",
     "endMarkerType": 0,
     "fills": [
       {
@@ -107,9 +106,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6705882352941176,
-          "green": 0.6705882352941176,
-          "red": 0.6705882352941176
+          "blue": 0.8470588235294118,
+          "green": 0.8470588235294118,
+          "red": 0.8470588235294118
         },
         "fillType": 0,
         "isEnabled": true,
@@ -138,7 +137,7 @@
         },
         "isEnabled": true,
         "offsetX": 0,
-        "offsetY": -2,
+        "offsetY": 2,
         "spread": 0
       }
     ],

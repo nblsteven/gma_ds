@@ -25,24 +25,24 @@
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 14,
-            "minimumLineHeight": 14
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
           }
         },
-        "length": 21,
+        "length": 32,
         "location": 0
       }
     ],
-    "string": "请在WOOKONG Bio上按键以确认转账"
+    "string": "请在WOOKONG Bio上仔细对比转账信息，按键以确认\n转账。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "690195A6-8628-4649-AEDC-F9F19019FEED",
+  "do_objectID": "D3737055-F2A7-4179-A987-169F8AA1CF98",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D4041E6E-6FEC-42DE-B739-A28156D5BF81",
+    "do_objectID": "2B9ECB47-C042-44BC-9752-38F5E844A52E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,13 +53,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "86CF5D3C-5F6C-4916-B067-A6D25343F022",
-    "height": 14,
-    "width": 242,
+    "do_objectID": "1DBF9D1B-D8AD-437E-BF82-A6A5F3E2CFC3",
+    "height": 44,
+    "width": 340,
     "x": 20,
-    "y": 385
+    "y": 359
   },
-  "glyphBounds": "{{0, 0}, {241, 14}}",
+  "glyphBounds": "{{0, 4}, {339, 36}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,21 +68,22 @@
   "isVisible": true,
   "layerListExpandedType": 1,
   "lineSpacingBehaviour": 2,
-  "name": "请在WOOKONG Bio上按键以确认转",
+  "name": "请在WOOKONG Bio上仔细对比转账",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "B43ABCB1-2927-4EA7-BB58-85F887DA48D2",
+  "sharedStyleID": "7A95981B-FDDF-4B2D-B1A9-0BB2A0E32D23",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0CB84795-AF41-40B5-9ECC-63A91454D052",
+    "do_objectID": "B84BC324-F31C-48DA-8C2A-A65E71A18213",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "7DEC8368-CDF0-4E09-B940-DEF9FBBDBC6B",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -103,8 +104,8 @@
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 14,
-          "minimumLineHeight": 14
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
         }
       },
       "verticalAlignment": 0

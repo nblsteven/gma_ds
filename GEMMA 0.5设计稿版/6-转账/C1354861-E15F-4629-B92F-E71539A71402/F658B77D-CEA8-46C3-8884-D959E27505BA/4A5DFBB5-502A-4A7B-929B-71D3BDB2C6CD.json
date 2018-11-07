@@ -29,11 +29,11 @@
             "minimumLineHeight": 14
           }
         },
-        "length": 9,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Gas price"
+    "string": "Gas price（wei）"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -55,11 +55,11 @@
     "constrainProportions": false,
     "do_objectID": "B97B5FFF-329F-4049-884A-931896D3AF95",
     "height": 14,
-    "width": 63,
+    "width": 113,
     "x": 1,
     "y": 0
   },
-  "glyphBounds": "{{0, 1}, {62, 14}}",
+  "glyphBounds": "{{0, 0}, {103, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 1,
   "lineSpacingBehaviour": 2,
-  "name": "Gas price",
+  "name": "Gas price（wei）",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

@@ -23,17 +23,17 @@
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 22,
             "minimumLineHeight": 22
           }
         },
-        "length": 31,
+        "length": 32,
         "location": 0
       }
     ],
-    "string": "系统截图在相册中可能被其他APP\n查看。备份前可开启飞行模式！"
+    "string": "系统截图在相册中可能被其他APP\n查看。\n备份前可开启飞行模式！"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -54,12 +54,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0EF5E68A-173B-44AB-89F4-8C753C50BACD",
-    "height": 44,
+    "height": 66,
     "width": 210,
     "x": 29.5,
     "y": 107.5
   },
-  "glyphBounds": "{{0, 4}, {209, 36}}",
+  "glyphBounds": "{{0, 4}, {209, 58}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -102,7 +102,7 @@
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 22,
           "minimumLineHeight": 22

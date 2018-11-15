@@ -1,0 +1,91 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9D644DB7-0F24-43A8-BC7C-8F94C392F8E1",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8D505DC1-4F9E-464F-AB79-C6F0EAF5A31C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7C6570FE-9EC6-478E-95F4-871543225767",
+    "height": 4.797514582995625,
+    "width": 2.519730874152926,
+    "x": 17.42826665625,
+    "y": 20.58701876075438
+  },
+  "hasClippingMask": false,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "路径",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0.2,
+      "curveFrom": "{0, -0.11791218290599932}",
+      "curveMode": 1,
+      "curveTo": "{0, -0.11791218290599932}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, -0.11791218290599932}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0.4,
+      "curveFrom": "{1.0659339515387427, 0.44193325576547932}",
+      "curveMode": 1,
+      "curveTo": "{1.0659339515387427, 0.44193325576547932}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1.0659339515387427, 0.44193325576547932}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0.2,
+      "curveFrom": "{0, 0.99999999999999967}",
+      "curveMode": 1,
+      "curveTo": "{0, 0.99999999999999967}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0.99999999999999967}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "DA42174A-C522-4D8A-A24C-ADB3246A3D1D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.953125,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "EF8375FA-1D88-4ED0-8BDA-B1EAE0B63115",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

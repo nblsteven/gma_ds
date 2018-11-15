@@ -26,11 +26,11 @@
             "minimumLineHeight": 22.4
           }
         },
-        "length": 4,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "电量足够"
+    "string": "电量>=130"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -56,7 +56,7 @@
     "x": 8,
     "y": 8
   },
-  "glyphBounds": "{{2, 4}, {62, 16}}",
+  "glyphBounds": "{{2, 4}, {75, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 1,
   "lineSpacingBehaviour": 2,
-  "name": "Text",
+  "name": "电量>=130",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

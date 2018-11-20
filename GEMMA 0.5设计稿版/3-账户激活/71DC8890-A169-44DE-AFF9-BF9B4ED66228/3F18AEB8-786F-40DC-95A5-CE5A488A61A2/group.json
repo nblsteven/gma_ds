@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3F18AEB8-786F-40DC-95A5-CE5A488A61A2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1996E2DB-51E5-415B-8D00-8814F7560D5D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "924712F8-DC1D-45EB-9139-75B6BAF26430",
+    "do_objectID": "65CAB1DD-0305-45EE-9B62-6005A0DBA4D7"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F84BA7ED-1836-45E2-8CDC-1A14239E6B2B",
+    "height": 61,
+    "width": 248,
+    "x": 16,
+    "y": 236
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "10491225-F832-487D-BB23-779277E6FE63"
+    },
+    {
+      "class": "text",
+      "id": "5F8FD0F3-03BF-4B40-B85A-75AA73135C85"
+    }
+  ],
+  "name": "Condition 5",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5FC3A649-104E-406B-BCB4-0629DE555CF3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "isConditionGroup": 1
+    }
+  }
+}

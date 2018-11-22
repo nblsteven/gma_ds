@@ -15,6 +15,15 @@
     "_class": "exportOptions",
     "do_objectID": "3B220E25-2833-41C2-B840-6E6C100FD6D0",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -25,10 +34,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3E95FAA4-A9FF-45F3-857C-01834F89B97F",
-    "height": 667,
-    "width": 375,
-    "x": 1061,
-    "y": 122
+    "height": 1334,
+    "width": 750,
+    "x": 881,
+    "y": 159
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -38,6 +47,7 @@
     "base": 0,
     "do_objectID": "F720D0E2-5DD6-4FDF-A6D0-F0D9F46F46D6",
     "guides": [
+      375
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -55,6 +65,18 @@
       "id": "82E3C7B8-D828-40B0-A273-3969115EE4EE"
     },
     {
+      "class": "text",
+      "id": "1ABA5030-CA11-4BCB-A7FE-9B69EAE76AFE"
+    },
+    {
+      "class": "text",
+      "id": "B714D4F6-B3CB-4F1A-A969-0EEF84FBE2EF"
+    },
+    {
+      "class": "text",
+      "id": "B66192CE-B2B8-4F22-893C-D358696D8803"
+    },
+    {
       "class": "group",
       "id": "44A4984E-A992-4506-916D-7E53746C1185"
     },
@@ -67,7 +89,7 @@
       "id": "7CB168C9-7122-4856-84FD-B9989739018E"
     }
   ],
-  "name": "1-闪屏",
+  "name": "1-闪屏-750",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -94,6 +116,7 @@
     "base": 0,
     "do_objectID": "9C79B3A5-C7E7-4BA4-9F1C-9A267081A6DF",
     "guides": [
+      460
     ]
   }
 }

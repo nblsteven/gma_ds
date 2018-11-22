@@ -2,10 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "AC394F3E-D29D-41B3-8E3A-71B133D679AB",
+  "do_objectID": "A0B940E9-8246-4430-9774-1FDB097182E2",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "62EE252B-4655-4495-8791-3341C84CBF33",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,20 +14,15 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 5,
-  "flow": {
-    "_class": "MSImmutableFlowConnection",
-    "animationType": -1,
-    "destinationArtboardID": "D410FA83-BDE4-4545-B80B-1A5276025CC6",
-    "do_objectID": "5CE3E711-86F8-437E-BD08-B196B2386CA2"
-  },
+  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 54,
-    "width": 119,
-    "x": 234,
-    "y": 37
+    "do_objectID": "E3E3B062-5095-4DFB-9A79-187EB96C270F",
+    "height": 1,
+    "width": 270,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -36,14 +32,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "name": "Rectangle",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 5,
+      "cornerRadius": 0,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -53,7 +49,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 5,
+      "cornerRadius": 0,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -63,7 +59,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 5,
+      "cornerRadius": 0,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -73,7 +69,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 5,
+      "cornerRadius": 0,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -88,6 +84,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "6999F59B-8B1B-4678-ABE2-F990A897ADE2",
     "endMarkerType": 0,
     "fills": [
       {
@@ -95,9 +92,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1254901960784314,
-          "green": 0.611764705882353,
-          "red": 0.9568627450980391
+          "blue": 0.8666666666666667,
+          "green": 0.8666666666666667,
+          "red": 0.8666666666666667
         },
         "fillType": 0,
         "isEnabled": true,

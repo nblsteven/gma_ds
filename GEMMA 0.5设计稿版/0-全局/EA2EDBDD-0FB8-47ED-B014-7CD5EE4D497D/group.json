@@ -1,11 +1,10 @@
 {
   "_class": "group",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "96A6BBA6-9E73-4520-A63F-BDB911B4E5E6",
+  "do_objectID": "EA2EDBDD-0FB8-47ED-B014-7CD5EE4D497D",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "9B8585EE-6F49-4361-A0CD-B19E80DCC6C7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,31 +15,26 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "8D896FC1-5A5E-4488-AD3F-EE151CE2446D",
-    "height": 667,
-    "width": 376,
-    "x": 0,
-    "y": 0
+    "height": 89,
+    "width": 15,
+    "x": -749,
+    "y": 1948
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "27135C58-4202-4099-8EB0-55BE220211F1"
-    },
-    {
-      "class": "group",
-      "id": "A5E04CE1-6A12-4A48-B06B-6507937E19A6"
+      "class": "shapePath",
+      "id": "BA01F895-D8E8-4E73-BA5A-1B2CF358ABD3"
     }
   ],
-  "name": "Group 2",
+  "name": "-Connections",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -48,7 +42,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "829E9C47-A397-4DA4-B4ED-76173A479A3A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -56,8 +49,7 @@
   },
   "userInfo": {
     "com.abynim.sketchplugins.userflows": {
-      "destinationArtboardID": "4F7159C3-4051-42AA-BF22-219B4F59A019",
-      "sharedBorderStyleID": "B0575578-1D63-434B-B75C-5DB85C4322C8"
+      "isConnectionsContainer": 1
     }
   }
 }

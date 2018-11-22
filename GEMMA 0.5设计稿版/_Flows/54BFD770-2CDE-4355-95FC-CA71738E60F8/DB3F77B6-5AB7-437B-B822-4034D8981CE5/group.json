@@ -1,11 +1,10 @@
 {
   "_class": "group",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "96A6BBA6-9E73-4520-A63F-BDB911B4E5E6",
+  "do_objectID": "DB3F77B6-5AB7-437B-B822-4034D8981CE5",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "9B8585EE-6F49-4361-A0CD-B19E80DCC6C7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,31 +15,42 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "8D896FC1-5A5E-4488-AD3F-EE151CE2446D",
-    "height": 667,
-    "width": 376,
-    "x": 0,
-    "y": 0
+    "height": 451,
+    "width": 353,
+    "x": 227,
+    "y": 279.8
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "27135C58-4202-4099-8EB0-55BE220211F1"
+      "class": "shapePath",
+      "id": "722D00DD-9463-4B28-8BDC-54DB9301BD31"
     },
     {
-      "class": "group",
-      "id": "A5E04CE1-6A12-4A48-B06B-6507937E19A6"
+      "class": "shapePath",
+      "id": "9FB5CCDA-75AF-4C67-8573-1CB41E4764CE"
+    },
+    {
+      "class": "rectangle",
+      "id": "AC394F3E-D29D-41B3-8E3A-71B133D679AB"
+    },
+    {
+      "class": "text",
+      "id": "DD6A61C3-E137-4691-8121-21694C5BAC67"
+    },
+    {
+      "class": "text",
+      "id": "F4BDADBA-064B-4E19-B233-25E4C2592F10"
     }
   ],
-  "name": "Group 2",
+  "name": "Connections",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -48,16 +58,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "829E9C47-A397-4DA4-B4ED-76173A479A3A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "userInfo": {
-    "com.abynim.sketchplugins.userflows": {
-      "destinationArtboardID": "4F7159C3-4051-42AA-BF22-219B4F59A019",
-      "sharedBorderStyleID": "B0575578-1D63-434B-B75C-5DB85C4322C8"
-    }
   }
 }

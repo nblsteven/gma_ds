@@ -9,40 +9,37 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4,
-            "green": 0.4,
-            "red": 0.4
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "PingFangSC-Regular",
-              "size": 14
+              "name": "PingFangSC-Semibold",
+              "size": 16
             }
           },
-          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 1,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
-          }
+            "alignment": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 33,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "This transaction was sent by XXX…"
+    "string": "ETH不需要备注"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C53B3072-FF5A-4A6B-8783-17A387D3BC91",
+  "do_objectID": "8A985FCA-014D-46BB-B26E-DCCC76A1DD99",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "581D2590-2B42-4E22-BDD7-1814E30C59CC",
+    "do_objectID": "B3F4010B-7309-48ED-BC05-7CBB350EB74A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BBD5F96A-1241-43BE-BFC2-29F28942C5BF",
-    "height": 16,
-    "width": 233,
-    "x": 102,
-    "y": 0
+    "do_objectID": "5FAC2F60-1396-417C-A3DD-F8147B6B1699",
+    "height": 32,
+    "width": 348.9664948453614,
+    "x": 31,
+    "y": 19
   },
-  "glyphBounds": "{{0, 2}, {231, 14}}",
+  "glyphBounds": "{{1, 3}, {111, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,59 +65,45 @@
   "isVisible": true,
   "layerListExpandedType": 1,
   "lineSpacingBehaviour": 2,
-  "name": "This transaction was",
+  "name": "ETH不需要备注",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 19,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "34FD0A74-3058-4161-B3A3-AB1845054D31",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "1508091A-5EA7-405E-A0A3-E96CE1DD8208",
+    "do_objectID": "25CB3C2F-A3A2-4708-9AA1-B222087F0C22",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "3E3A7465-309D-4F62-AD2E-59868BEA9D3D",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4,
-          "green": 0.4,
-          "red": 0.4
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "PingFangSC-Regular",
-            "size": 14
+            "name": "PingFangSC-Semibold",
+            "size": 16
           }
         },
-        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 1,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16
-        }
+          "alignment": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
-  "userInfo": {
-    "com.abynim.sketchplugins.userflows": {
-      "destinationArtboardID": "E23B1E76-1EA5-45C9-A0C6-73F2A389B36C",
-      "sharedBorderStyleID": "B0575578-1D63-434B-B75C-5DB85C4322C8"
-    },
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 1
-      }
-    }
-  }
+  "textBehaviour": 2
 }

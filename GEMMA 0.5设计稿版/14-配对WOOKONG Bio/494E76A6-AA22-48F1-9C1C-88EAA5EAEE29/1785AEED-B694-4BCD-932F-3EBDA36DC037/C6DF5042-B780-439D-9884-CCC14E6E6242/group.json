@@ -29,18 +29,22 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "slice",
       "id": "57A60093-3A68-47EB-B2DE-18294DA152CA"
     },
     {
+      "class": "shapePath",
+      "id": "CBC97D27-530F-44CB-A298-B9F39361799C"
+    },
+    {
       "class": "shapeGroup",
       "id": "13C90F0F-50A1-49B7-9A7E-7338ECA7B69E"
     }
   ],
-  "name": "ic_waiting",
+  "name": "ic_retry",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

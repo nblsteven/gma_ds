@@ -9,37 +9,35 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.6,
+            "green": 0.6,
+            "red": 0.6
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "PingFangSC-Semibold",
-              "size": 16
+              "name": "HelveticaNeue",
+              "size": 12
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
+          }
         },
-        "length": 302,
+        "length": 37,
         "location": 0
       }
     ],
-    "string": "配对过程bio可能有3种状态：\na. 未初始化 = 未设置PIN & 未生成种子\nb. 设置了PIN但未完成初始化\nc. 已初始化\n\n未初始化 配对流程：\n1. 搜索bio并连接\n2. 填写密码\n3. 选择初始化方式（新建或导入助记词）\n4. 按电源键确认初始化（init pin）\n5. 备份助记词或导入助记词\n6. 录入指纹（可跳过）\n\n设置了PIN但未完成初始化 配对流程\n1. 搜索bio并连接\n2. 指纹或PIN认证连接\n3. 选择初始化方式（新建或导入助记词）\n4. 备份助记词或导入助记词\n5. 录入指纹（可跳过）\n\n已初始化 配对流程\n1. 搜索bio并连接\n2. 指纹或PIN认证连接\n"
+    "string": "Modified on Nov 29, 2018 by Steven Wu"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9AF9A6E1-983F-4EE2-B6D4-87CBCD8CF357",
+  "do_objectID": "636114F9-F7D5-4103-A271-2F64A9BA1C5D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "78D8EDBC-ED26-4FFC-A405-6E41C62DAF03",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,60 +48,56 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "33DF07B8-6FBB-4D21-A151-42480A49F31A",
-    "height": 617.9999999999999,
-    "width": 875.6907216494862,
-    "x": 31,
-    "y": 19
+    "height": 14,
+    "width": 600,
+    "x": 40,
+    "y": 116.8
   },
-  "glyphBounds": "{{0, 3}, {281, 500}}",
+  "glyphBounds": "{{0, 2}, {216, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "配对过程bio可能有3种状态： a. 未",
+  "name": "Modified Date",
   "nameIsFixed": false,
-  "resizingConstraint": 19,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "5C8C2E44-BE99-4606-83CE-75F1253BFA8A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "8069E3A2-B84E-4822-B137-FCA2564CB66E",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.6,
+          "green": 0.6,
+          "red": 0.6
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "PingFangSC-Semibold",
-            "size": 16
+            "name": "HelveticaNeue",
+            "size": 12
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0
-        },
-        "textStyleVerticalAlignmentKey": 0
+        }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 1
 }

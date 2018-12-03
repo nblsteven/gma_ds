@@ -4,22 +4,22 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "E28C599C-F59F-4AC1-BD38-2BDF9EB9B22C",
+    "do_objectID": "ADC76C89-3732-4031-8508-975B5F8782D5",
     "green": 1,
     "red": 1
   },
   "booleanOperation": 0,
-  "do_objectID": "42A1E734-14D2-41D8-B462-3EA929CCA287",
+  "do_objectID": "221977E0-2439-43D4-8595-A483405AB0EC",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CD7251DF-6756-41B0-BA25-8AA815EC7B2C",
+    "do_objectID": "01911346-6F41-41B0-BF34-532588690717",
     "exportFormats": [
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "mdpi/",
-        "namingScheme": 1,
+        "name": "",
+        "namingScheme": 0,
         "scale": 1,
         "visibleScaleType": 0
       },
@@ -27,17 +27,8 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "hdpi/",
-        "namingScheme": 1,
-        "scale": 1.5,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "xhdpi/",
-        "namingScheme": 1,
+        "name": "@2x",
+        "namingScheme": 0,
         "scale": 2,
         "visibleScaleType": 0
       },
@@ -45,30 +36,21 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "xxhdpi/",
-        "namingScheme": 1,
+        "name": "@3x",
+        "namingScheme": 0,
         "scale": 3,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "xxxhdpi/",
-        "namingScheme": 1,
-        "scale": 4,
         "visibleScaleType": 0
       }
     ],
     "includedLayerIds": [
     ],
-    "layerOptions": 2,
+    "layerOptions": 0,
     "shouldTrim": false
   },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "902D53F1-9CBD-4859-81F1-80763478E948",
+    "do_objectID": "C1E69D3C-E184-494D-A23C-4FBBA90780D1",
     "height": 24,
     "width": 24,
     "x": 0,
@@ -80,8 +62,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "name": "ic_visible",
+  "layerListExpandedType": 0,
+  "name": "ic_invisible",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

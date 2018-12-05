@@ -9,40 +9,37 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8,
-            "green": 0.8,
-            "red": 0.8
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "PingFangSC-Regular",
+              "name": "PingFangSC-Semibold",
               "size": 16
             }
           },
-          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
-          }
+            "alignment": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 270,
         "location": 0
       }
     ],
-    "string": "输入转账备注"
+    "string": "软钱包备注没有限制，默认备注为：\nThis transaction was sent by XXX（转账账户名） via WOOKONG Wallet. We invite you to install the app and join us for decentralized future: https://wooko.ng\n\nbio备注限制为ascii字符，且个数<=15\n点击“下一步”，若发现备注不符合条件，顶部弹框提醒：“备注最多15个字符，仅支持英文、数字、标点符号”\n\nbio默认备注为：http://wooko.ng\n\n\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E636D6EC-8D7C-477A-A59E-3868D736D6BB",
+  "do_objectID": "FF22634A-B6C1-4D4B-94D5-2214D507BE5E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FF66D711-F9F5-488E-9154-2E0416FDC27F",
+    "do_objectID": "DB0E8721-73C2-4915-BB2A-4AA8D10F83B9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7338BACB-B210-4BF3-884D-FDB5B07D71A4",
-    "height": 16,
-    "width": 96,
-    "x": 0,
-    "y": 29
+    "do_objectID": "8EE81C5C-5B0F-4C97-84EA-8711CDE76137",
+    "height": 291.0000000000001,
+    "width": 379.840206185568,
+    "x": 31,
+    "y": 19
   },
-  "glyphBounds": "{{0, 0}, {96, 16}}",
+  "glyphBounds": "{{0, 3}, {378, 305}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,59 +65,45 @@
   "isVisible": true,
   "layerListExpandedType": 1,
   "lineSpacingBehaviour": 2,
-  "name": "输入转账备注",
+  "name": "软钱包备注没有限制，默认备注为： Thi",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 19,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "097969F5-9769-42DD-9059-CEFA41B73CFE",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "A51C6896-D3D9-403B-BC75-F63DE85A8960",
+    "do_objectID": "FCFF3789-BA03-4063-8E68-CE8AC3571814",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "4D1B08BF-2A67-4593-8199-A6DAECB86031",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8,
-          "green": 0.8,
-          "red": 0.8
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "PingFangSC-Regular",
+            "name": "PingFangSC-Semibold",
             "size": 16
           }
         },
-        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16
-        }
+          "alignment": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
-  "userInfo": {
-    "com.abynim.sketchplugins.userflows": {
-      "destinationArtboardID": "ECF99392-6131-479F-9B82-DE9FC7FEBD75",
-      "sharedBorderStyleID": "B0575578-1D63-434B-B75C-5DB85C4322C8"
-    },
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 1
-      }
-    }
-  }
+  "textBehaviour": 2
 }

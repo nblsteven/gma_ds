@@ -2,7 +2,7 @@
   "_class": "shapePath",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "73CD46C6-F1D0-4836-A957-41C5BEFDBD78",
+  "do_objectID": "32ABD7C4-E3DE-479B-A2A1-7ECE4021EA4A",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
@@ -16,10 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 718,
-    "width": 2,
-    "x": 994.5,
-    "y": 0
+    "height": 240,
+    "width": 789,
+    "x": 0,
+    "y": 1233.5
   },
   "hasClippingMask": false,
   "isClosed": false,
@@ -36,32 +36,48 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1, 1}",
-      "curveMode": 1,
-      "curveTo": "{1, 1}",
-      "hasCurveFrom": false,
+      "curveFrom": "{0.20278833967046894, 1}",
+      "curveMode": 4,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": true,
       "hasCurveTo": false,
-      "point": "{1, 1}"
+      "point": "{0, 1}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0, 0}",
-      "curveMode": 1,
-      "curveTo": "{0, 0}",
+      "curveFrom": "{1, 0}",
+      "curveMode": 4,
+      "curveTo": "{0.79721166032953106, 0}",
       "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 0}"
+      "hasCurveTo": true,
+      "point": "{1, 0}"
     }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "B0575578-1D63-434B-B75C-5DB85C4322C8",
+  "sharedStyleID": "26DBB969-EAF7-4798-B0FD-D9E52BE972BB",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0475EC98-BDF6-4B7F-A827-68B73949F74D",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.4784313725490197,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "B0049E5F-05CF-4949-B8B1-7E8AA8DD850A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

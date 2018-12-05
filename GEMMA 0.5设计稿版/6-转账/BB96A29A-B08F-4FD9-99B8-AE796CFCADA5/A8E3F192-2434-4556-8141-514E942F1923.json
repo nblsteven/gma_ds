@@ -2,7 +2,7 @@
   "_class": "shapePath",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "28193637-8F67-4D2B-AC67-E28513502500",
+  "do_objectID": "A8E3F192-2434-4556-8141-514E942F1923",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
@@ -16,10 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1058,
-    "width": 765,
-    "x": 0,
-    "y": 1533.5
+    "height": 4.5,
+    "width": 51,
+    "x": 2050,
+    "y": 1401
   },
   "hasClippingMask": false,
   "isClosed": false,
@@ -36,10 +36,10 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.20915032679738563, 0}",
-      "curveMode": 4,
+      "curveFrom": "{0, 0}",
+      "curveMode": 1,
       "curveTo": "{0, 0}",
-      "hasCurveFrom": true,
+      "hasCurveFrom": false,
       "hasCurveTo": false,
       "point": "{0, 0}"
     },
@@ -47,37 +47,21 @@
       "_class": "curvePoint",
       "cornerRadius": 0,
       "curveFrom": "{1, 1}",
-      "curveMode": 4,
-      "curveTo": "{0.79084967320261434, 1}",
+      "curveMode": 1,
+      "curveTo": "{1, 1}",
       "hasCurveFrom": false,
-      "hasCurveTo": true,
+      "hasCurveTo": false,
       "point": "{1, 1}"
     }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "26DBB969-EAF7-4798-B0FD-D9E52BE972BB",
+  "sharedStyleID": "B0575578-1D63-434B-B75C-5DB85C4322C8",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 1,
-          "green": 0.4784313725490197,
-          "red": 0
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "position": 1,
-        "thickness": 1
-      }
-    ],
-    "do_objectID": "5E6AE9DE-F948-4238-97A2-6BA8A91D56C1",
+    "do_objectID": "02F07AB7-4215-41D4-8F1A-FFB094BCE811",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

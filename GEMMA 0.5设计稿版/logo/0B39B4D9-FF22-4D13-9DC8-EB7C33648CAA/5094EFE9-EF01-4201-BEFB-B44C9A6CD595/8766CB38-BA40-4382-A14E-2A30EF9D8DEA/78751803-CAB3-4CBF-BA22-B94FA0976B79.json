@@ -1,10 +1,18 @@
 {
-  "_class": "group",
+  "_class": "slice",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "FFB9A8B7-E4EB-447F-AEDF-A2F65FAF1DDD",
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
-  "clippingMaskMode": 0,
-  "do_objectID": "0B1E5367-D0D2-4EDB-9886-9BA867194EF8",
+  "do_objectID": "78751803-CAB3-4CBF-BA22-B94FA0976B79",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "1F86F988-89AB-4E57-B32C-959DC014FE9C",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -24,40 +32,23 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 1024,
+    "do_objectID": "230FE094-25D9-473B-9661-52912FA4787C",
+    "height": 100,
+    "width": 100,
     "x": 0,
     "y": 0
   },
-  "hasClickThrough": false,
-  "hasClippingMask": false,
+  "hasBackgroundColor": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "slice",
-      "id": "B2631B66-73B9-4F99-8308-568B03516BCA"
-    },
-    {
-      "class": "group",
-      "id": "ED516212-2D6B-4047-B488-44129B8A787B"
-    }
-  ],
-  "name": "logo_start icon_1024*1024",
-  "nameIsFixed": true,
+  "layerListExpandedType": 0,
+  "name": "logo_start icon_128*128",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
-  "style": {
-    "_class": "style",
-    "endMarkerType": 0,
-    "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
-  }
+  "shouldBreakMaskChain": false
 }

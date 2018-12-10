@@ -2,19 +2,11 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0B1E5367-D0D2-4EDB-9886-9BA867194EF8",
+  "do_objectID": "4BED8DFB-00A5-4C16-B085-892777CC1A28",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "D9D100D7-D5D6-43ED-8D19-096E9727BB91",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -24,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 1024,
-    "x": 0,
-    "y": 0
+    "do_objectID": "D097EC67-F82D-4BBC-B4CC-07E7C3F3A648",
+    "height": 220,
+    "width": 300,
+    "x": 504,
+    "y": 140
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -36,25 +29,30 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "slice",
-      "id": "B2631B66-73B9-4F99-8308-568B03516BCA"
+      "class": "text",
+      "id": "F8057338-1CBA-4CB6-98EF-224483B286B1"
     },
     {
-      "class": "group",
-      "id": "ED516212-2D6B-4047-B488-44129B8A787B"
+      "class": "text",
+      "id": "D1F2F8C9-C07A-4B1F-A983-937D1E715EF9"
+    },
+    {
+      "class": "text",
+      "id": "D84ACD62-EFAC-4A87-814E-66C953505DE3"
     }
   ],
-  "name": "logo_start icon_1024*1024",
-  "nameIsFixed": true,
+  "name": "分组 2",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "4F43C481-0F5F-49EA-B5E0-3411C0DF81A2",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
